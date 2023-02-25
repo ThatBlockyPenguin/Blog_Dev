@@ -1,30 +1,17 @@
 # BlockyPenguin Blog
 
-{% assign pages = site.pages | sort: 'date' %}
-
+{% assign doclist = site.pages | sort: 'date' %}
+{% assign root = page.dir %}
 <ul>
-  {% assign dirs = pages | map: 'dir' | uniq %}
-  {% for dir in dirs %}
-    {% assign parts = dir | split: '/' %}
-    {% assign node = '' %}
-    {% for part in parts %}
-      {% assign node = node | append: '/' | append: part %}
-      {% unless node == dir %}
-        {% assign name = part | capitalize %}
-        {% assign prev = node | remove_first: part | remove_first: '/' %}
-        {% assign prev_node = site.baseurl | append: '/' | append: prev %}
-        {% unless prev == '' %}
-          <li><a href="{{ prev_node }}">{{ prev | capitalize }}</a></li>
-        {% endunless %}
-      {% endunless %}
-    {% endfor %}
-    <li><a href="{{ site.baseurl }}/{{ dir }}">{{ name }}</a></li>
-    {% for page in pages %}
-      {% if page.name contains '.md' and page.dir == dir %}
-        <ul>
-          <li><a href="{{ site.baseurl }}/{{ page.url }}">{{ page.title }}</a></li>
-        </ul>
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
+{% for doc in doclist %}
+  {% if doc.name contains '.md' %}
+    {% assign parts = doc.url | split: '/' %}
+    {% if parts[0] == root or (parts | size > 1 and parts[1] == root) %}
+      {% assign level = parts | size %}
+      {% assign indent = level | minus: 1 %}
+      {% capture padding %}{% for i in (1..indent) %}&nbsp;&nbsp;&nbsp;&nbsp;{% endfor %}{% endcapture %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ padding }}{{ doc.title }}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
 </ul>
