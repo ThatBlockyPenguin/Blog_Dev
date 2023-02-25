@@ -18,4 +18,4 @@
   {% endfor %}
 {% endcapture %}
 
-{{ tree | strip_newlines }}
+{{ tree | newline_to_br }}
