@@ -5,9 +5,10 @@
 {% assign baseurl = site.baseurl | append: '/' %}
 
 {% for doc in doclist %}
-  {{ doc.path }}
-  {{ doc.url }}
-  {% if doc.path contains '/article/' %}
+  {% if doc.path contains 'article/' %}
+    {{ doc.path }}
+    {{ doc.url }}
+
     <a href="{{ baseurl }}{{ doc.url }}">{{ doc.title }}</a><br>
   {% endif %}
 {% endfor %}
