@@ -1,5 +1,4 @@
 # Articles
-{% include status.html %}
 {% assign doclist = site.pages | sort: 'date' %}
 
 <ul>
