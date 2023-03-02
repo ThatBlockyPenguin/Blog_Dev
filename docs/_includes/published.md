@@ -1,0 +1,1 @@
+<span style="color:#D8572D;">_Published: {{ include.doc.date }}_</span>
