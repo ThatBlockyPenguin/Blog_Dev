@@ -1,3 +1,7 @@
-# Game-Changing Tech: How Current and Emerging Technologies are Shaping the Future of Gaming
+# **Game-Changing Tech: How Current and Emerging Technologies are Shaping the Future of Gaming**
 
-W.I.P
+{% include published.md doc=doc %}
+
+## What is the Computer Gaming industry?
+
+Blah blah blah
