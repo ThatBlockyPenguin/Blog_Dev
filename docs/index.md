@@ -1,4 +1,4 @@
-# Home | BlockyPenguin's Blog
+# Articles
 
 {% assign doclist = site.pages | sort: 'date' %}
 
