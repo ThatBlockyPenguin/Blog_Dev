@@ -38,7 +38,7 @@ A narrative, puzzles, and exploration are common aspects in adventure games. {% 
 
 A role-playing game (RPG) is a game in which each player plays the role of a character, usually in a fantasy or science fiction setting, which they may interact with inside the game's fictitious world. {% include refpointer.html id=7 %}
 
-Because of the variety of hybrid genres with RPG features, defining RPGs is extremely difficult. {% include refpointer.html id=8 %}
+Because of the variety of sub-genres with RPG features, defining RPGs is extremely difficult. {% include refpointer.html id=8 %}
 
 Traditional role-playing video games had five fundamental elements: {% include refpointer.html id=8 %}
 
@@ -81,15 +81,47 @@ This provides an environment with no way to “lose”, low-pressure (as you do 
 
 ### Sub-Genres
 
-Changes in technology & game design have spawned sub-genres relating to how games are played:  
-Massive Multiplayer Online (MMO)  
-Real-time Strategy (RTS)  
-Sandbox  
-Massive Multiplayer Online Role-playing Games (MMORPGs)  
-First-Person Shooter (FPS)  
-Multiplayer Online Battle Arena (MOBA)  
-Battle Royale  
-Action-Adventure
+Advances in technology and game design have had a significant influence on gaming, creating sub-genres within (frequently overlapping) genres. Some sub-genres can even be seen as sub-genres of sub-genres! {% include refpointer.html id=4 %}
+
+#### Massive Multiplayer Online Game (MMO) / Massive Multiplayer Online Role-playing Game (MMORPG)
+
+An MMO is a game in which many people may play together at the same time over the internet. These games are typically played in a social context, which the user may access after installing the game. {% include refpointer.html id=14 %}
+
+An MMORPG, as the name implies, is a form of MMO which belongs to the [RPG genre](#role-playing-games-rpgs). {% include refpointer.html id=15 %}
+
+By definition, an MMORPG is both an MMO and an RPG, whereas MMOs can be anything from a Battle Royale game to a real-time strategy game, or anything else - as long as it fits the MMO category. {% include refpointer.html id=15 %}
+
+#### Real-time Strategy (RTS)
+
+In Real-time strategy games, players construct troops and defeat their opponents by using resources and skill. Real-time strategy games are usually compared to turn-based strategy games, in which each player has time to carefully consider their next move without being concerned about the moves of their opponent, as each player makes their move on their turn. Real-time strategy games however, allow all players to play simultaneously, with players gathering resources, defending their bases, and launching attacks while being aware that their opponent is doing the same. and may attack at any time. {% include refpointer.html id=16 %}
+
+#### Sandbox
+
+A sandbox game is one in which the player has few constraints, allowing them to freely traverse and modify a virtual world. In contrast to a progression-style game, a sandbox game emphasises exploration and lets the player select tasks. A sandbox game often takes place in a "world" to which the player has total access from beginning to end, rather than separated areas or numbered levels. {% include refpointer.html id=17 %}
+
+Players may choose whether or not to explore structured components of the game, such as mini-games, quests, and storylines. Oftentimes, the non-sequential nature of sandbox games presents game designers with many narrative challenges. As a result, tasks and side-quests often follow a pattern, with tasks unlocking upon successful completion of other objectives. {% include refpointer.html id=17 %}
+
+#### First-Person Shooter (FPS)
+
+A first-person shooter game is played from the protagonist's point of view. during gameplay, the character's arms are normally seen at the bottom of the screen, carrying whatever item is equipped. {% include refpointer.html id=18 %}
+
+Most FPS games have added realism features, such as the rocking of the screen to represent natural human movement, breathing sounds, and footsteps. {% include refpointer.html id=18 %}
+
+#### Multiplayer Online Battle Arena (MOBA)
+
+A MOBA is a form of highly competitive video game in which two teams of players compete against each other in a battle arena. Each player has control of a single character, each with their own set of talents and skills, and generally, work together to demolish the opponent team's base while defending their own. {% include refpointer.html id=19 %}
+
+The gameplay often includes defeating opponent troops and structures to collect in-game currency, which can then be used to enhance abilities and purchase items. Each player's character has a class, such as a tank, a healer, or an archer, and teams normally include a good mix of these roles to form a balanced lineup. As the game progresses, team fights become more intense and players become stronger, leading to an exciting and challenging gaming experience. {% include refpointer.html id=19 %}
+
+They require players to think on their feet, work together with their team, and make quick decisions, making them an engaging and immersive gaming experience. {% include refpointer.html id=19 %}
+
+#### Battle Royale
+
+A battle royale game is a type of online multiplayer game that features last-man-standing gameplay with certain aspects of a survival game, such as exploration and scavenging. Battle royale games involve dozens to hundreds of players who start with limited equipment and must eliminate all opponents while avoiding getting trapped outside of a diminishing "safe region." The winner is the last player or team standing. {% include refpointer.html id=20 %}
+
+#### Action-Adventure
+
+As the name suggests, action-adventure games combine features from both action games and adventure games. They involve physical skills commonly seen in action games, but also include narrative elements such as compelling storylines, multiple characters, dialogue, and an inventory system that are typically found in adventure games. As a result, playing action-adventure games presents the player with both combat and logic-testing challenges. The gameplay in action-adventure games is typically more intense than pure adventure games, and players typically control a single avatar as the protagonist. These games can be categorized into different types such as first-person action-adventure, third-person action-adventure, platform-adventure games, stealth games, and survival games. {% include refpointer.html id=21 %}
 
 Use of integrated services and multiplayer environments e.g. Steam, PS Now, Apple Arcade, XBox Live etc and how security has become an issue
 
@@ -110,3 +142,11 @@ Use of integrated services and multiplayer environments e.g. Steam, PS Now, Appl
 11. {% include reference.html link="https://gamicus.fandom.com/wiki/Sports_video_games" title="Sports video games - Codex Gamicus" %}
 12. {% include reference.html link="https://ultimatepopculture.fandom.com/wiki/Puzzle_video_game" title="Puzzle video game | Ultimate Pop Culture Wiki" %}
 13. {% include reference.html link="https://en.wikipedia.org/wiki/Incremental_game" title="Incremental game" %}
+14. {% include reference.html link="https://www.techopedia.com/definition/27054/massively-multiplayer-online-game-mmog" title="What is Massively Multiplayer Online Game (MMOG)?" %}
+15. {% include reference.html link="https://plarium.com/en/blog/difference-between-mmo-and-mmorpgs/" title="What Is the Difference Between MMO & MMORPG? - Plarium" %}
+16. {% include reference.html link="https://www.techopedia.com/definition/1923/real-time-strategy-rts" title="What is Real-Time Strategy (RTS)? - Definition from Techopedia" %}
+17. {% include reference.html link="https://www.techopedia.com/definition/3952/sandbox-gaming" title="What is a Sandbox (in Gaming)?" %}
+18. {% include reference.html link="https://www.techopedia.com/definition/241/first-person-shooter-fps" title="What is First Person Shooter (FPS)?" %}
+19. {% include reference.html link="https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena" title="Multiplayer online battle arena - Wikipedia" %}
+20. {% include reference.html link="https://en.wikipedia.org/wiki/Battle_royale_game" title="Battle royale game" %}
+21. {% include reference.html link="https://www.sportskeeda.com/esports/action-adventure-games" title="Action-adventure Games" %}
