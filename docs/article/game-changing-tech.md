@@ -182,9 +182,27 @@ However, it should be noted that the reasearch mentioned that it is possible for
 
 ### Technology
 
-Use of integrated services and multiplayer environments e.g. Steam, PS Now, Apple Arcade, XBox Live etc and how security has become an issue
+#### Integrated Services
 
-{% include refpointer.html id=4 %}
+Integrated services and multiplayer settings are critical components of today's video gaming experience. These services let gamers to communicate with one another, play together, and access a variety of gaming material. Some of the most popular video game integrated services and multiplayer environments are:
+
+- **Steam:** Steam is a digital distribution platform developed by Valve Corporation. It offers a wide range of games, both single-player and multiplayer, and provides features such as in-game chat, cloud saves, and social networking. Steam also includes a marketplace where players can buy and sell in-game items. {% include refpointer.html id=23 %}
+- **PlayStation Plus:** PlayStation Plus is a paid subscription service that provides users with access to premium features. These features include online multiplayer, exclusive discounts, and free monthly game downloads. The "Extra" and "Premium" tiers provide access to a wider catalogue of games and additional features such as downloadable games, limited trials of select games, and cloud streaming of games. All tiers of subscription offer the Game Help feature, which provides spoiler-free hints and tips while playing supported games. {% include refpointer.html id=24 %}
+
+….
+
+- **Apple Arcade:** Apple Arcade is a subscription-based gaming service developed by Apple Inc. It offers a curated collection of games for iOS, iPadOS, macOS, and tvOS devices. Apple Arcade also includes multiplayer games, allowing players to play together on the same device or online.
+- **Xbox Live:** Xbox Live is a multiplayer gaming platform developed by Microsoft Corporation. It offers a wide range of multiplayer games, as well as features such as voice and text chat, game invites, and cross-platform play. Xbox Live also includes a marketplace where players can buy and sell in-game items.
+
+In addition to these specific services, many video games also offer their own integrated multiplayer environments, such as World of Warcraft, Fortnite, and Minecraft. These games often have large communities of players who connect with each other and play together regularly.
+
+Overall, integrated services and multiplayer environments are essential components of the modern video gaming experience. They allow players to connect with each other and access a wide range of gaming content, creating a rich and vibrant gaming culture.
+
+.
+
+.
+
+how security has become an issue
 
 ## References:
 
@@ -210,3 +228,5 @@ Use of integrated services and multiplayer environments e.g. Steam, PS Now, Appl
 20. {% include reference.html link="https://en.wikipedia.org/wiki/Battle_royale_game" title="Battle royale game" %}
 21. {% include reference.html link="https://www.sportskeeda.com/esports/action-adventure-games" title="Action-adventure Games" %}
 22. {% include reference.html link="https://www.youtube.com/watch?v=cRnz5LvN4xI" title="5 Types of Gamers (Which one are you?) - YouTube" %}
+23. {% include reference.html link="https://www.androidauthority.com/what-is-steam-3254981/" title="What is Steam: The popular gaming platform explained" %}
+24. {% include reference.html link="https://en.wikipedia.org/wiki/PlayStation_Network#PlayStation_Plus" title="PlayStation Network" %}
