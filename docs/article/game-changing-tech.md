@@ -123,6 +123,65 @@ A battle royale game is a type of online multiplayer game that features last-man
 
 As the name suggests, action-adventure games combine features from both action games and adventure games. They involve physical skills commonly seen in action games, but also include narrative elements such as compelling storylines, multiple characters, dialogue, and an inventory system that are typically found in adventure games. As a result, playing action-adventure games presents the player with both combat and logic-testing challenges. The gameplay in action-adventure games is typically more intense than pure adventure games, and players typically control a single avatar as the protagonist. These games can be categorized into different types such as first-person action-adventure, third-person action-adventure, platform-adventure games, stealth games, and survival games. {% include refpointer.html id=21 %}
 
+### Types of Gamer
+
+Research has been done to identify the different types of computer gamers that exist. It found that there were 5 main types, categorisable into “potentially problematic” and “non-problematic”. {% include refpointer.html id=22 %}
+
+#### Recreational Gamer
+
+- Non-problematic
+- Has low impulsivity
+- Has high self-esteem
+- Generally spends less time gaming overall
+- Finds gaming more of a hobby and not something they *have* to do
+- Gaming is just an activity that they enjoy
+
+#### Social Gamer
+
+- Non-problematic
+- Has low impulsivity
+- May have low self-esteem
+- Plays for the social experience and role-playing potential
+- Doesn't find themselves needing to play out of compulsion
+- Likely enjoys creating virtual characters but not as a means to replace their real-life identity
+
+#### The ‘Escaper’
+
+- Potentially Problematic
+- Seeks to relieve negative mood states through gaming
+- Highly motivated by immersive gameplay for its escapism
+- May have poor self-esteem
+- Less sensation-seeking
+- Highly impulsive traits
+- Gaming may be as a means to cope with real-life difficulties
+- Gaming behaviour may be due to underlying conditions
+
+#### The ‘Achiever’
+
+- Potentially Problematic
+- Highly impulsive
+- Generally sensation-seeking
+- Low self-control
+- High self esteem
+- Posesses a drive to achieve
+- Seeks to progress in the game
+- Less interested in role-playing, socialising & escaping
+- Has trouble overcoming the immediate gratification provided by the game
+- Probably do not play to achieve an idealised sense of self
+- Playing because they want to master the game
+
+#### Hardcore Gamer
+
+- Potentially Problematic
+- Combination of The ‘Escaper’ and The ‘Achiever’
+- Motivated by achievement, sensation-seeking & role-playing
+- May have low self-esteem
+- Prone to fully identifying and defining themselves through their gaming even in their real life
+
+However, it should be noted that the reasearch mentioned that it is possible for some people to possess traits of multiple gamer types, and essentially be a “hybrid” type. {% include refpointer.html id=22 %}
+
+### Technology
+
 Use of integrated services and multiplayer environments e.g. Steam, PS Now, Apple Arcade, XBox Live etc and how security has become an issue
 
 {% include refpointer.html id=4 %}
@@ -150,3 +209,4 @@ Use of integrated services and multiplayer environments e.g. Steam, PS Now, Appl
 19. {% include reference.html link="https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena" title="Multiplayer online battle arena - Wikipedia" %}
 20. {% include reference.html link="https://en.wikipedia.org/wiki/Battle_royale_game" title="Battle royale game" %}
 21. {% include reference.html link="https://www.sportskeeda.com/esports/action-adventure-games" title="Action-adventure Games" %}
+22. {% include reference.html link="https://www.youtube.com/watch?v=cRnz5LvN4xI" title="5 Types of Gamers (Which one are you?) - YouTube" %}
