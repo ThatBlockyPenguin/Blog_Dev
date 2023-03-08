@@ -188,7 +188,7 @@ Integrated services and multiplayer settings are critical components of today's 
 
 - **Steam:** Steam is a digital distribution platform developed by Valve Corporation. It offers a wide range of games, both single-player and multiplayer, and provides features such as in-game chat, cloud saves, and social networking. Steam also includes a marketplace where players can buy and sell in-game items. {% include refpointer.html id=23 %}
 - **PlayStation Plus:** PlayStation Plus is a paid subscription service that provides users with access to premium features. These features include online multiplayer, exclusive discounts, and free monthly game downloads. The "Extra" and "Premium" tiers provide access to a wider catalogue of games and additional features such as downloadable games, limited trials of select games, and cloud streaming of games. All tiers of subscription offer the Game Help feature, which provides spoiler-free hints and tips while playing supported games. {% include refpointer.html id=24 %}
-- **Apple Arcade:** Apple Arcade is a subscription-based gaming service developed by Apple for thier own devices. It offers a curated collection of games for iOS, iPadOS, macOS, and tvOS devices. Apple Arcade also includes multiplayer games, allowing players to play together on the same device or online. It offers uninterrupted, unintrusive experiences by excluding practices commonly associated with popular, primarily free-to-play, mobile games such as in-app purchases and advertisements. {% include refpointer.html id=25 %}
+- **Apple Arcade:** Apple Arcade is a game subscription service established by Apple for their own devices. It provides a carefully chosen selection of games for iOS, iPadOS, macOS, and tvOS devices. Multiplayer games are also available in Apple Arcade, allowing people to play together on the same device or online. It provides continuous, unintrusive experiences by omitting practises associated with popular, largely free-to-play, mobile games, such as in-app purchases and adverts. {% include refpointer.html id=25 %}
 - **Xbox Network:** Xbox Network is an online gaming and content distribution service for Xbox consoles. It offers multiplayer games, downloadable demos, trailers, and full games through Xbox Live Arcade. Users can choose a gamertag, create friends lists, and play with real-life friends or new people online. Xbox Live Gold is a subscription-based service that can be purchased for one month, three months, or one year. It offers two levels of service, with the free level, called Xbox Live Silver, providing access to Xbox Marketplace downloads, app usage, and chat features. However, Xbox Live Gold is required to play most games online. Xbox Network requires an Xbox console and broadband internet. {% include refpointer.html id=26 %}
 
 In addition to these, many video games also offer their own integrated multiplayer environments. These environments may range from relatively simple such as Minecraft's text-chat-only in-game chat, to more complex features, like full on voice chat in Team Fortress 2. Games such as these often have large playerbases who connect with each other and play together regularly, often forming into smaller communities.
@@ -213,23 +213,41 @@ There are various ways that game development can be funded, whether by mainstrea
 
 ### Devices Used & Hardware
 
-Early computer games (1960s-1970s): The first computer games were developed in the 1960s and 1970s, and they were played on mainframe computers using teletype machines or early terminals. These games included classics like _Spacewar!_ and _Hunt the Wumpus_.
+Throughout the history of gaming, the industry has seen many changes and advancements. From the early days of computer games to the modern era of virtual reality and eSports, gaming has evolved and expanded in countless ways.
 
-Early home gaming consoles (1970s-1980s): In the late 1970s and early 1980s, the first home gaming consoles were introduced. These included consoles like the Atari 2600 and the Intellivision, which connected to the TV and allowed players to play simple games like _Pong_, _Space Invaders_, and _Pac-Man_.
+The early days of gaming in the 1960s and 1970s saw the development of games played on mainframe computers using teletype machines or early terminals. These games, such as _Spacewar!_ and _Hunt the Wumpus_, were the first of their kind and set the stage for the industry to come.
 
-Personal computers (1980s): In the 1980s, personal computers became more affordable and popular, and they quickly became a popular gaming platform. Popular games from this era include titles like _Ultima_, _Zork_, and _King's Quest_.
+In the late 1970s and early 1980s, the first home gaming consoles were introduced, including the Atari 2600 and the Intellivision. These consoles allowed players to connect to their TV and play simple games like _Pong_, _Space Invaders_, and _Pac-Man_ from the comfort of their own homes.
 
-Consoles and PCs (1990s): In the 1990s, gaming consoles like the Nintendo Entertainment System, Sega Genesis, and Sony PlayStation became popular, alongside PC gaming. This era saw the rise of iconic franchises like _Super Mario Bros._, _Sonic the Hedgehog_, and _Final Fantasy_.
+The 1980s saw the rise of personal computers, which quickly became a popular gaming platform. Popular games from this era include titles like _Ultima_, _Zork_, and _King's Quest_.
 
-Online gaming and multiplayer (2000s): The early 2000s saw the rise of online gaming and multiplayer games, with popular titles like _Club Penguin_, _World of Warcraft_, and _Counter-Strike_. Consoles like the Xbox and PlayStation 2 also began to support online play.
+The 1990s brought about the rise of gaming consoles like the Nintendo Entertainment System, Sega Genesis, and Sony PlayStation, which saw the introduction of iconic franchises like _Super Mario Bros._, _Sonic the Hedgehog_, and _Final Fantasy_. This era also saw the continuation of PC gaming alongside consoles.
 
-Mobile gaming (2010s): In the 2010s, mobile gaming exploded in popularity thanks to the widespread adoption of smartphones and tablets. Games like _Angry Birds_, _Candy Crush_, and _Pokémon Go_ became massively popular.
+The early 2000s saw the rise of online gaming and multiplayer games, with popular titles like _Club Penguin_, _World of Warcraft_, and _Counter-Strike_. Consoles like the Xbox and PlayStation 2 also began to support online play.
 
-Virtual reality and eSports (present day): Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and Valve Index allow players to fully immerse themselves in virtual worlds, while esports tournaments and leagues draw millions of viewers worldwide.
+The 2010s marked the explosion of mobile gaming thanks to the widespread adoption of smartphones and tablets. Games like _Angry Birds_, _Candy Crush_, and _Pokémon Go_ became massively popular, making gaming more accessible to a wider audience.
 
-| ![Valve Index](https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg)         |
-|-------------------------------------------------------------------------------------------------------|
-| Valve Index on display - [Image from Valve](https://www.valvesoftware.com/en/index){:target="_blank"} |
+Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and Valve Index allow players to fully immerse themselves in virtual worlds, while eports tournaments and leagues draw millions of viewers worldwide. Gaming continues to evolve and expand, and it will be exciting to see what the future holds for this industry.
+
+#### Hardware
+
+The first computer games were hard-coded into a system, and each console played one game. After a few years - around the mid 70s, the idea of a swappable “game cartridge” started to gain popularity. {% include refpointer.html id=31 %} {% include refpointer.html id=32 %}
+
+In the 1980s, the video game market crashed, due to the oversaturation of the market with low-quality games - which lasted a few years. {% include refpointer.html id=32 %}
+
+A few years later, the gaming market went portable, with the introduction of handheld devices such as the Game Boy. {% include refpointer.html id=32 %} These consoles allowed for interchangeable cartridges to load different games, and for portability so people could play games on the go! {% include refpointer.html id=32 %} By 1988 the crash was a mere memory, and global games revenues returned to over $20 billion per year! It was during this time that franchises such as Mario, Zelda, and Street Fighter began to emerge. {% include refpointer.html id=32 %}
+
+….
+
+The first In the early days of gaming, graphics cards were simple and often limited in their capabilities, leading to games with blocky and pixelated graphics. As games became more advanced and required more sophisticated graphics, the need for more powerful graphics cards grew. This led to the development of specialized graphics processing units (GPUs) designed specifically for gaming, which allowed for more detailed and realistic graphics.
+
+Another important piece of gaming hardware is the controller. In the early days of gaming, controllers were simple and often had just a few buttons. As games became more complex and required more precise control, the need for more advanced controllers grew. This led to the development of controllers with more buttons, joysticks, and even motion sensors.
+
+Finally, gaming hardware has also evolved in terms of the systems used to play games. From the early days of mainframe computers and teletype machines, gaming has moved to home consoles and personal computers, and now includes mobile devices and virtual reality headsets. Each new system brings new possibilities for gaming and expands the audience for the industry.
+
+| ![Valve Index](https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg)          |
+| ------------------------------------------------------------------------------------------------------ |
+| Valve Index on display - [Image from Valve](https://www.valvesoftware.com/en/index){:target="\_blank"} |
 
 ## Current Technologies in Gaming
 
@@ -267,3 +285,5 @@ Virtual reality and eSports (present day): Today, virtual reality gaming and esp
 28. {% include reference.html link="https://en.wikipedia.org/wiki/Log4Shell" title="Log4Shell - Wikipedia" %}
 29. {% include reference.html link="https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition" title="Security Vulnerability in Minecraft: Java Edition" %}
 30. {% include reference.html link="https://docs.google.com/presentation/d/1sUEGaxiTUDE9XYXR9uV3AfV_wklB_QTZWwcnkBugSi4/edit#slide=id.p16" title="Models of Game Production" %}
+31. {% include reference.html link="https://en.wikipedia.org/wiki/ROM_cartridge#:~:text=A%20modern%20take%20on%20game,2600%20released%20the%20following%20year." title="Game Cartridges" %}
+32. {% include reference.html link="https://www.conceptventures.vc/news/the-history-evolution-of-video-games" title="How Video Games Began & Evolved" %}
