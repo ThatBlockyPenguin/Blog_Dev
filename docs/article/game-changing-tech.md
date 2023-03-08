@@ -228,8 +228,9 @@ Mobile gaming (2010s): In the 2010s, mobile gaming exploded in popularity thanks
 Virtual reality and esports (present day): Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and HTC Vive allow players to fully immerse themselves in virtual worlds, while esports tournaments and leagues draw millions of viewers worldwide.
 
 …
-![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
-{: .class1 .class2}
+
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
+{: .sideimg}
 
 ## References:
 
