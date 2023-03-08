@@ -227,7 +227,9 @@ Mobile gaming (2010s): In the 2010s, mobile gaming exploded in popularity thanks
 
 Virtual reality and eSports (present day): Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and Valve Index allow players to fully immerse themselves in virtual worlds, while esports tournaments and leagues draw millions of viewers worldwide.
 
-<table><tbody><tr><td><figure class="image"><img src="https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg" alt="Valve Index"></figure></td></tr><tr><td>Valve Index on display - <a href="https://www.valvesoftware.com/en/index">Image from Valve</a></td></tr></tbody></table>
+| ![Valve Index](https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg)         |
+|-------------------------------------------------------------------------------------------------------|
+| Valve Index on display - [Image from Valve](https://www.valvesoftware.com/en/index){:target="_blank"} |
 
 ## Current Technologies in Gaming
 
