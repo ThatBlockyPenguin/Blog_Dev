@@ -207,6 +207,30 @@ The official article on the Minecraft Help website stated that “This exploit a
 
 Other issues that game developers have to worry about are social exploitation, such as phishing, in their in-game chats. Similarly, American game publisher 2K recently had their helpdesk compromised, and had malicious content sent out to their customers. {% include refpointer.html id=27 %}
 
+### Devices Used
+
+…
+
+…
+
+Early computer games (1960s-1970s): The first computer games were developed in the 1960s and 1970s, and they were played on mainframe computers using teletype machines or early terminals. These games included classics like Spacewar! and Hunt the Wumpus.
+
+Early home gaming consoles (1970s-1980s): In the late 1970s and early 1980s, the first home gaming consoles were introduced. These included consoles like the Atari 2600 and the Intellivision, which connected to the TV and allowed players to play simple games like Pong, Space Invaders, and Pac-Man.
+
+Personal computers (1980s): In the 1980s, personal computers became more affordable and popular, and they quickly became a popular gaming platform. Popular games from this era include titles like Ultima, Zork, and King's Quest.
+
+Consoles and PCs (1990s): In the 1990s, gaming consoles like the Nintendo Entertainment System, Sega Genesis, and Sony PlayStation became popular, alongside PC gaming. This era saw the rise of iconic franchises like Super Mario Bros., Sonic the Hedgehog, and Final Fantasy.
+
+Online gaming and multiplayer (2000s): The early 2000s saw the rise of online gaming and multiplayer games, with popular titles like EverQuest, World of Warcraft, and Counter-Strike. Consoles like the Xbox and PlayStation 2 also began to support online play.
+
+Mobile gaming (2010s): In the 2010s, mobile gaming exploded in popularity thanks to the widespread adoption of smartphones and tablets. Games like Angry Birds, Candy Crush, and Pokemon Go became massively popular.
+
+Virtual reality and esports (present day): Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and HTC Vive allow players to fully immerse themselves in virtual worlds, while esports tournaments and leagues draw millions of viewers worldwide.
+
+…
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
+{: .class1 .class2}
+
 ## References:
 
 1.  {% include reference.html link="https://builtin.com/gaming" title="A Look Into the Gaming Industry: Types of Video Games and Gaming Jobs" %}
