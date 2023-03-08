@@ -229,7 +229,7 @@ Virtual reality and esports (present day): Today, virtual reality gaming and esp
 
 …
 
-![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080){: .sideimg}
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080){: .sideimg .size-10}
 
 ## References:
 
