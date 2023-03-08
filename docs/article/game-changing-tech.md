@@ -188,11 +188,8 @@ Integrated services and multiplayer settings are critical components of today's 
 
 - **Steam:** Steam is a digital distribution platform developed by Valve Corporation. It offers a wide range of games, both single-player and multiplayer, and provides features such as in-game chat, cloud saves, and social networking. Steam also includes a marketplace where players can buy and sell in-game items. {% include refpointer.html id=23 %}
 - **PlayStation Plus:** PlayStation Plus is a paid subscription service that provides users with access to premium features. These features include online multiplayer, exclusive discounts, and free monthly game downloads. The "Extra" and "Premium" tiers provide access to a wider catalogue of games and additional features such as downloadable games, limited trials of select games, and cloud streaming of games. All tiers of subscription offer the Game Help feature, which provides spoiler-free hints and tips while playing supported games. {% include refpointer.html id=24 %}
-
-….
-
-- **Apple Arcade:** Apple Arcade is a subscription-based gaming service developed by Apple Inc. It offers a curated collection of games for iOS, iPadOS, macOS, and tvOS devices. Apple Arcade also includes multiplayer games, allowing players to play together on the same device or online.
-- **Xbox Live:** Xbox Live is a multiplayer gaming platform developed by Microsoft Corporation. It offers a wide range of multiplayer games, as well as features such as voice and text chat, game invites, and cross-platform play. Xbox Live also includes a marketplace where players can buy and sell in-game items.
+- **Apple Arcade:** Apple Arcade is a subscription-based gaming service developed by Apple for thier own devices. It offers a curated collection of games for iOS, iPadOS, macOS, and tvOS devices. Apple Arcade also includes multiplayer games, allowing players to play together on the same device or online. It offers uninterrupted, unintrusive experiences by excluding practices commonly associated with popular, primarily free-to-play, mobile games such as in-app purchases and advertisements. {% include refpointer.html id=25 %}
+- **Xbox Live:** Xbox network is an online gaming and content distribution service for Xbox consoles. It offers multiplayer games, downloadable demos, trailers, and full games through Xbox Live Arcade. Users can choose a gamertag, create friends lists, and play with real-life friends or new people online. Xbox Live Gold is a subscription-based service that can be purchased for one month, three months, or one year. It offers two levels of service, with the free level, called Xbox Live Silver, providing access to Xbox Marketplace downloads, app usage, and chat features. However, Xbox Live Gold is required to play most games online. Xbox network requires an Xbox console and broadband internet. {% include refpointer.html id=26 %}
 
 In addition to these specific services, many video games also offer their own integrated multiplayer environments, such as World of Warcraft, Fortnite, and Minecraft. These games often have large communities of players who connect with each other and play together regularly.
 
@@ -230,3 +227,5 @@ how security has become an issue
 22. {% include reference.html link="https://www.youtube.com/watch?v=cRnz5LvN4xI" title="5 Types of Gamers (Which one are you?) - YouTube" %}
 23. {% include reference.html link="https://www.androidauthority.com/what-is-steam-3254981/" title="What is Steam: The popular gaming platform explained" %}
 24. {% include reference.html link="https://en.wikipedia.org/wiki/PlayStation_Network#PlayStation_Plus" title="PlayStation Network" %}
+25. {% include reference.html link="https://en.wikipedia.org/wiki/Apple_Arcade" title="Apple Arcade" %}
+26. {% include reference.html link="https://www.lifewire.com/what-is-xbox-live-3563186" title="What Is the Xbox Network?" %}
