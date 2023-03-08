@@ -207,29 +207,29 @@ The official article on the Minecraft Help website stated that “This exploit a
 
 Other issues that game developers have to worry about are social exploitation, such as phishing, in their in-game chats. Similarly, American game publisher 2K recently had their helpdesk compromised, and had malicious content sent out to their customers. {% include refpointer.html id=27 %}
 
-### Devices Used
+### Devices Used & Hardware
 
-…
+Early computer games (1960s-1970s): The first computer games were developed in the 1960s and 1970s, and they were played on mainframe computers using teletype machines or early terminals. These games included classics like _Spacewar!_ and _Hunt the Wumpus_.
 
-…
+Early home gaming consoles (1970s-1980s): In the late 1970s and early 1980s, the first home gaming consoles were introduced. These included consoles like the Atari 2600 and the Intellivision, which connected to the TV and allowed players to play simple games like _Pong_, _Space Invaders_, and _Pac-Man_.
 
-Early computer games (1960s-1970s): The first computer games were developed in the 1960s and 1970s, and they were played on mainframe computers using teletype machines or early terminals. These games included classics like Spacewar! and Hunt the Wumpus.
+Personal computers (1980s): In the 1980s, personal computers became more affordable and popular, and they quickly became a popular gaming platform. Popular games from this era include titles like _Ultima_, _Zork_, and _King's Quest_.
 
-Early home gaming consoles (1970s-1980s): In the late 1970s and early 1980s, the first home gaming consoles were introduced. These included consoles like the Atari 2600 and the Intellivision, which connected to the TV and allowed players to play simple games like Pong, Space Invaders, and Pac-Man.
+Consoles and PCs (1990s): In the 1990s, gaming consoles like the Nintendo Entertainment System, Sega Genesis, and Sony PlayStation became popular, alongside PC gaming. This era saw the rise of iconic franchises like _Super Mario Bros._, _Sonic the Hedgehog_, and _Final Fantasy_.
 
-Personal computers (1980s): In the 1980s, personal computers became more affordable and popular, and they quickly became a popular gaming platform. Popular games from this era include titles like Ultima, Zork, and King's Quest.
+Online gaming and multiplayer (2000s): The early 2000s saw the rise of online gaming and multiplayer games, with popular titles like _Club Penguin_, _World of Warcraft_, and _Counter-Strike_. Consoles like the Xbox and PlayStation 2 also began to support online play.
 
-Consoles and PCs (1990s): In the 1990s, gaming consoles like the Nintendo Entertainment System, Sega Genesis, and Sony PlayStation became popular, alongside PC gaming. This era saw the rise of iconic franchises like Super Mario Bros., Sonic the Hedgehog, and Final Fantasy.
+Mobile gaming (2010s): In the 2010s, mobile gaming exploded in popularity thanks to the widespread adoption of smartphones and tablets. Games like _Angry Birds_, _Candy Crush_, and _Pokémon Go_ became massively popular.
 
-Online gaming and multiplayer (2000s): The early 2000s saw the rise of online gaming and multiplayer games, with popular titles like EverQuest, World of Warcraft, and Counter-Strike. Consoles like the Xbox and PlayStation 2 also began to support online play.
+Virtual reality and eSports (present day): Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and Valve Index allow players to fully immerse themselves in virtual worlds, while esports tournaments and leagues draw millions of viewers worldwide.
 
-Mobile gaming (2010s): In the 2010s, mobile gaming exploded in popularity thanks to the widespread adoption of smartphones and tablets. Games like Angry Birds, Candy Crush, and Pokemon Go became massively popular.
+<table><tbody><tr><td><figure class="image"><img src="https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg" alt="Valve Index"></figure></td></tr><tr><td>Valve Index on display - <a href="https://www.valvesoftware.com/en/index">Image from Valve</a></td></tr></tbody></table>
 
-Virtual reality and esports (present day): Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and HTC Vive allow players to fully immerse themselves in virtual worlds, while esports tournaments and leagues draw millions of viewers worldwide.
+#### Game Production
 
-…
+There are various ways that game development can be funded, whether by mainstream developers and publishers, such as Valve, Blizzard, or Rockstar, by independent (indie) developers, via crowdfunding such as Kickstarter, by making the game paid, or by making it free to play, with in-app-purchases (IAPs). {% include refpointer.html id=30 %}
 
-![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080){: .sideimg .size-20}
+.
 
 ## References:
 
@@ -262,3 +262,4 @@ Virtual reality and esports (present day): Today, virtual reality gaming and esp
 27. {% include reference.html link="https://www.securityhq.com/blog/cyber-security-threats-in-gaming-industry-at-an-all-time-high/" title="Cyber Security Threats in Gaming Industry at an All-time High" %}
 28. {% include reference.html link="https://en.wikipedia.org/wiki/Log4Shell" title="Log4Shell - Wikipedia" %}
 29. {% include reference.html link="https://help.minecraft.net/hc/en-us/articles/4416199399693-Security-Vulnerability-in-Minecraft-Java-Edition" title="Security Vulnerability in Minecraft: Java Edition" %}
+30. {% include reference.html link="https://docs.google.com/presentation/d/1sUEGaxiTUDE9XYXR9uV3AfV_wklB_QTZWwcnkBugSi4/edit#slide=id.p16" title="Models of Game Production" %}
