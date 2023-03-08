@@ -207,6 +207,10 @@ The official article on the Minecraft Help website stated that “This exploit a
 
 Other issues that game developers have to worry about are social exploitation, such as phishing, in their in-game chats. Similarly, American game publisher 2K recently had their helpdesk compromised, and had malicious content sent out to their customers. {% include refpointer.html id=27 %}
 
+### Game Production
+
+There are various ways that game development can be funded, whether by mainstream developers and publishers, such as Valve, Blizzard, or Rockstar, by independent (indie) developers, via crowdfunding such as Kickstarter, by making the game paid, or by making it free to play, with in-app-purchases (IAPs). {% include refpointer.html id=30 %}
+
 ### Devices Used & Hardware
 
 Early computer games (1960s-1970s): The first computer games were developed in the 1960s and 1970s, and they were played on mainframe computers using teletype machines or early terminals. These games included classics like _Spacewar!_ and _Hunt the Wumpus_.
@@ -225,9 +229,7 @@ Virtual reality and eSports (present day): Today, virtual reality gaming and esp
 
 <table><tbody><tr><td><figure class="image"><img src="https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg" alt="Valve Index"></figure></td></tr><tr><td>Valve Index on display - <a href="https://www.valvesoftware.com/en/index">Image from Valve</a></td></tr></tbody></table>
 
-#### Game Production
-
-There are various ways that game development can be funded, whether by mainstream developers and publishers, such as Valve, Blizzard, or Rockstar, by independent (indie) developers, via crowdfunding such as Kickstarter, by making the game paid, or by making it free to play, with in-app-purchases (IAPs). {% include refpointer.html id=30 %}
+## Current Technologies in Gaming
 
 .
 
