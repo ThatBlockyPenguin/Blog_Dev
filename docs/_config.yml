@@ -2,3 +2,4 @@ title: null
 name: BlockyPenguin's Blog
 description: Official Blog of BlockyPenguin!
 lang: en-GB
+markdown: kramdown
