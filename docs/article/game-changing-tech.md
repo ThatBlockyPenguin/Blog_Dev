@@ -195,13 +195,17 @@ In addition to these, many video games also offer their own integrated multiplay
 
 Overall, integrated services and multiplayer environments are essential components of the modern video gaming experience. They allow players to connect with each other and access a wide range of gaming content, creating a rich and vibrant gaming culture.
 
+#### Security Issues
+
 With the inclusion of such services, game developers have had to put systems in place that ensure a fair and welcoming space for everyone. This may be by creating filters that prevent certain words from appearing in messages, by implementing a banning feature that allows repeat offenders to be removed from the platform, and so on.
 
 There are also new security risks being exposed by computer games. A report by SecurityHQ states that “there has been a monumental surge in targeted cyber-attacks against the gaming sector, with a 167% increase in web application attacks in 2021 alone”. Of course, as the industry grows, the motivation for a successful attack grows with it. {% include refpointer.html id=27 %}
 
 A recent example is _Minecraft_ and the Log4Shell vulnerability. Log4Shell was discovered by Chen Zhaojun of the Alibaba Cloud Security Team, and is the name given to a zero-day vulnerability in Log4j, a popular logging framework for the Java programming language. _Minecraft: Java Edition_ is developed in the Java programming language, and uses Log4j, and as such, was affected by this vulnerability.  {% include refpointer.html id=28 %} {% include refpointer.html id=29 %}
 
-The official article on the Minecraft Help website stated that “This exploit affects many services - including _Minecraft: Java Edition_”. Their response to the situation was swift and well-handled, providing a fix for all affected versions of the game. {% include refpointer.html id=29 %}
+The official article on the Minecraft Help website stated that “This exploit affects many services - including \_Minecraft: Java Edition\_”. Their response to the situation was swift and well-handled, providing a fix for all affected versions of the game. {% include refpointer.html id=29 %}
+
+Other issues that game developers have to worry about are social exploitation, such as phishing, in their in-game chats. Similarly, American game publisher 2K recently had their helpdesk compromised, and had malicious content sent out to their customers. {% include refpointer.html id=27 %}
 
 ## References:
 
