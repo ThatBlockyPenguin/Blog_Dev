@@ -229,25 +229,29 @@ The 2010s marked the explosion of mobile gaming thanks to the widespread adoptio
 
 Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and Valve Index allow players to fully immerse themselves in virtual worlds, while eports tournaments and leagues draw millions of viewers worldwide. Gaming continues to evolve and expand, and it will be exciting to see what the future holds for this industry.
 
+| ![Valve Index](https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg)          |
+| ------------------------------------------------------------------------------------------------------ |
+| Valve Index on display - [Image from Valve](https://www.valvesoftware.com/en/index){:target="\_blank"} |
+
 #### Hardware
 
 The first computer games were hard-coded into a system, and each console played one game. After a few years - around the mid 70s, the idea of a swappable “game cartridge” started to gain popularity. {% include refpointer.html id=31 %} {% include refpointer.html id=32 %}
 
 In the 1980s, the video game market crashed, due to the oversaturation of the market with low-quality games - which lasted a few years. {% include refpointer.html id=32 %}
 
-A few years later, the gaming market went portable, with the introduction of handheld devices such as the Game Boy. {% include refpointer.html id=32 %} These consoles allowed for interchangeable cartridges to load different games, and for portability so people could play games on the go! {% include refpointer.html id=32 %} By 1988 the crash was a mere memory, and global games revenues returned to over $20 billion per year! It was during this time that franchises such as Mario, Zelda, and Street Fighter began to emerge. {% include refpointer.html id=32 %}
+A few years later, the gaming market went mobile, with the introduction of handheld devices such as the Game Boy. {% include refpointer.html id=32 %} These consoles allowed for interchangeable cartridges to load different games, and for portability so people could play games on the go! {% include refpointer.html id=32 %} By 1988 the crash was a mere memory, and global games revenues returned to over $20 billion per year! It was during this time that franchises such as Mario, Zelda, and Street Fighter began to emerge. {% include refpointer.html id=32 %}
 
-….
+In 1994, the personal computer was becoming increasingly common in US households, with an estimated 24 million homes (27% of households) owning one. And while PCs were initially viewed as tools for work and productivity, they quickly became popular for their gaming capabilities. In fact, nearly half of all PC owners (48%) played games on their computer. {% include refpointer.html id=32 %}
 
-The first In the early days of gaming, graphics cards were simple and often limited in their capabilities, leading to games with blocky and pixelated graphics. As games became more advanced and required more sophisticated graphics, the need for more powerful graphics cards grew. This led to the development of specialized graphics processing units (GPUs) designed specifically for gaming, which allowed for more detailed and realistic graphics.
+One reason for the popularity of the PC was its versatility. In addition to gaming, PCs offered other utilities like web browsing and document processing, and as technology continued to advance, PCs began to incorporate new features like CD-ROM drives (that were found in 35% of US households) and sound cards (in 20% of US households). {% include refpointer.html id=32 %}
 
-Another important piece of gaming hardware is the controller. In the early days of gaming, controllers were simple and often had just a few buttons. As games became more complex and required more precise control, the need for more advanced controllers grew. This led to the development of controllers with more buttons, joysticks, and even motion sensors.
+The launch of the first popular 3D game, Doom, in 1993 further solidified the PC's position as a premier gaming platform. Doom was a groundbreaking first-person shooter that pushed the boundaries of what was possible in the gaming world. It went on to influence not only subsequent shooter games but video gaming as a whole. And it was so successful that it was eventually made available on nearly every video gaming system. {% include refpointer.html id=32 %}
 
-Finally, gaming hardware has also evolved in terms of the systems used to play games. From the early days of mainframe computers and teletype machines, gaming has moved to home consoles and personal computers, and now includes mobile devices and virtual reality headsets. Each new system brings new possibilities for gaming and expands the audience for the industry.
+One of the key features of Doom was its multiplayer mode, which allowed players to compete against one another online. This was a major breakthrough at the time and helped to establish the first-person shooter genre as we know it today. {% include refpointer.html id=32 %}
 
-| ![Valve Index](https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg)          |
-| ------------------------------------------------------------------------------------------------------ |
-| Valve Index on display - [Image from Valve](https://www.valvesoftware.com/en/index){:target="\_blank"} |
+In fact, the Doom Engine (the game engine created to power Doom) was used to base the Quake Engine on (the game engine created to power Quake). Games developer and publisher Valve then created the GoldSrc engine from this, which over time evolved into the Source engine, then into the Source 2 Engine. {% include refpointer.html id=33 %} {% include refpointer.html id=34 %} {% include refpointer.html id=35 %} {% include refpointer.html id=36 %} {% include refpointer.html id=37 %}
+
+The popularity of PC gaming led to the formation of a dedicated community of gamers. And while there was some overlap with console gamers, the two communities generally remained distinct. Even today, the debate over which platform is better rages on.  {% include refpointer.html id=32 %}
 
 ## Current Technologies in Gaming
 
@@ -287,3 +291,8 @@ Finally, gaming hardware has also evolved in terms of the systems used to play g
 30. {% include reference.html link="https://docs.google.com/presentation/d/1sUEGaxiTUDE9XYXR9uV3AfV_wklB_QTZWwcnkBugSi4/edit#slide=id.p16" title="Models of Game Production" %}
 31. {% include reference.html link="https://en.wikipedia.org/wiki/ROM_cartridge#:~:text=A%20modern%20take%20on%20game,2600%20released%20the%20following%20year." title="Game Cartridges" %}
 32. {% include reference.html link="https://www.conceptventures.vc/news/the-history-evolution-of-video-games" title="How Video Games Began & Evolved" %}
+33. {% include reference.html link="https://en.wikipedia.org/wiki/Doom_engine" title="Doom engine" %}
+34. {% include reference.html link="https://en.wikipedia.org/wiki/Quake_engine" title="Quake engine" %}
+35. {% include reference.html link="https://en.wikipedia.org/wiki/GoldSrc" title="GoldSrc" %}
+36. {% include reference.html link="https://en.wikipedia.org/wiki/Source_(game_engine)" title="Source (game engine)" %}
+37. {% include reference.html link="https://en.wikipedia.org/wiki/Source_2" title="Source 2" %}
