@@ -251,11 +251,79 @@ One of the key features of Doom was its multiplayer mode, which allowed players 
 
 In fact, the Doom Engine (the game engine created to power Doom) was used to base the Quake Engine on (the game engine created to power Quake). Games developer and publisher Valve then created the GoldSrc engine from this, which over time evolved into the Source engine, then into the Source 2 Engine. {% include refpointer.html id=33 %} {% include refpointer.html id=34 %} {% include refpointer.html id=35 %} {% include refpointer.html id=36 %} {% include refpointer.html id=37 %}
 
-The popularity of PC gaming led to the formation of a dedicated community of gamers. And while there was some overlap with console gamers, the two communities generally remained distinct. Even today, the debate over which platform is better rages on.  {% include refpointer.html id=32 %}
+The GoldSrc, Source, and Source 2 engines were used to create highly popular games such as Half-Life, Team Fortress, Counter-Strike, Portal, Left 4 Dead, The Stanley Parable (originally as a Half-Life mod), and Dota! {% include refpointer.html id=38 %} All these games (and more) effectively exist because of Doom's underlying technology!
+
+The popularity of PC gaming led to the formation of a dedicated community of gamers. And while there was some overlap with console gamers, the two communities generally remained distinct. Even today, the debate over which platform is better rages on. {% include refpointer.html id=32 %}
 
 ## Current Technologies in Gaming
 
-.
+There are various technologies available in the gaming industry, from hardware - the physical parts of a device, software - the programs that run on a device, to game engines - the platforms upon which games can be built. It's important to keep up-to-date with all the latest options as outdated hardware and software may be incompatible with newer games, and they may run slower or even not run at all!
+
+### Hardware Options
+
+#### Central Processing Unit (CPU)
+
+The CPU is the main component of a computer system that handles the majority of the processing work. It is frequently referred to as the "brains" of a computer, as it interprets and executes that instructions that make up software, and coordinates the work of other components.
+
+In a gaming system, the CPU is crucial in determining a system's overall performance. It is in charge of processes such as game logic, physics computations, and artificial intelligence algorithms. The more powerful and quicker the CPU, the better the system will be able to manage these duties and give a smooth and responsive gaming experience. If the CPU is not up to the task, you may experience lag or low frames-per-second (FPS) when playing.
+
+The CPU is also responsible for managing the data flow between the graphics card and other components of the system. This means that a powerful CPU is essential for avoiding bottlenecks and ensuring that the graphics card is able to operate at its full potential. In short, the CPU is a crucial component of a gaming system and plays a critical role in ensuring that the system can handle the demands of modern games.
+
+As of writing (March 2023), the highest ranking CPUs as according to Tom's Hardware are (in no particular order): {% include refpointer.html id=39 %}
+
+|                                      | Intel Core i5-13400 {% include refpointer.html id=42 %} | AMD Ryzen 5 7600 {% include refpointer.html id=41 %} | AMD Ryzen 9 7950X3D {% include refpointer.html id=40 %} | Intel Core i9-13900K {% include refpointer.html id=43 %} | Intel Core i5-13600K {% include refpointer.html id=44 %} | AMD Ryzen 5 7600X {% include refpointer.html id=45 %} |
+| ------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- |
+| Cores                                | 10                                                      | 6                                                    | 16                                                      | 24                                                       | 14                                                       | 6                                                     |
+| Core Clock Speed                     | 2.5 GHz                                                 | 3.8 GHz                                              | 4.2 GHz                                                 | 3 GHz                                                    | 3.5 GHz                                                  | 4.7 GHz                                               |
+| Boost Clock Speed                    | 4.6 GHz                                                 | 5.1 GHz                                              | 5.7 GHz                                                 | 5.8 GHz                                                  | 5.1 GHz                                                  | 5.3 GHz                                               |
+| Supports Simultaneous Multithreading | Yes                                                     | Yes                                                  | Yes                                                     | Yes                                                      | Yes                                                      | Yes                                                   |
+| Supports Error Correction (ECC)      | No                                                      | Yes                                                  | Yes                                                     | Yes                                                      | No                                                       | Yes                                                   |
+
+As you can see, AMD and Intel have cornered the market for CPUs, and, in fact, are pretty much the only two companies in the business - especially for consumer devices.
+
+#### Graphics Processing Unit (GPU)
+
+The GPU is a specialised processor that is designed to handle the complex mathematical calculations required for rendering high-quality graphics, to the screen.
+
+In gaming, the GPU plays a crucial role by generating pixels that are displayed on the screen. The CPU runs the game logic and sends any visual data to the GPU, which then takes care of converting this raw data into pixels that appear on screen.
+
+The more powerful the GPU, the more complex and detailed the graphics can be. This can result in smoother gameplay, higher frame rates, and more realistic visuals. Gamers often invest in high-end GPUs to get the best gaming experience possible.
+
+…
+
+memory
+
+storage
+
+output
+
+input
+
+connections
+
+### Software Options
+
+operating system
+
+programming language
+
+drivers
+
+graphics (directx, opengl)
+
+audio options (music, ambiance, format)
+
+### Game Engines
+
+rendering engines
+
+physics engines
+
+collision detection
+
+scripting
+
+animatio
 
 ## References:
 
@@ -296,3 +364,11 @@ The popularity of PC gaming led to the formation of a dedicated community of gam
 35. {% include reference.html link="https://en.wikipedia.org/wiki/GoldSrc" title="GoldSrc" %}
 36. {% include reference.html link="https://en.wikipedia.org/wiki/Source_(game_engine)" title="Source (game engine)" %}
 37. {% include reference.html link="https://en.wikipedia.org/wiki/Source_2" title="Source 2" %}
+38. {% include reference.html link="https://developer.valvesoftware.com/wiki/GoldSrc" title="GoldSrc - Valve Developer Community" %}
+39. {% include reference.html link="https://www.tomshardware.com/reviews/best-cpus,3986.html" title="The Best CPU for Gaming in 2023 - Top Gaming CPUs for the Money" %}
+40. {% include reference.html link="https://uk.pcpartpicker.com/product/X6XV3C/amd-ryzen-9-7950x3d-42-ghz-16-core-processor-100-100000908wof" title="AMD Ryzen 9 7950X3D 4.2 GHz 16-Core Processor" %}
+41. {% include reference.html link="https://uk.pcpartpicker.com/product/yXmmP6/amd-ryzen-5-7600-38-ghz-6-core-processor-100-100001015box" title="AMD Ryzen 5 7600 3.8 GHz 6-Core Processor" %}
+42. {% include reference.html link="https://uk.pcpartpicker.com/product/7xLFf7/intel-core-i5-13400-25-ghz-10-core-processor-bx8071513400" title="Intel Core i5-13400 2.5 GHz 10-Core Processor" %}
+43. {% include reference.html link="https://uk.pcpartpicker.com/product/DhVmP6/intel-core-i9-13900k-3-ghz-24-core-processor-bx8071513900k" title="Intel Core i9-13900K 3 GHz 24-Core Processor" %}
+44. {% include reference.html link="https://uk.pcpartpicker.com/product/LfNxFT/intel-core-i5-13600k-35-ghz-14-core-processor-bx8071513600k" title="Intel Core i5-13600K 3.5 GHz 14-Core Processor" %}
+45. {% include reference.html link="https://uk.pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof" title="AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor" %}
