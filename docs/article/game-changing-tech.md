@@ -36,7 +36,7 @@ A narrative, puzzles, and exploration are common aspects in adventure games. {% 
 
 #### Role-playing games (RPGs)
 
-A role-playing game (RPG) is a game in which each player plays the role of a character, usually in a fantasy or science fiction setting, which they may interact with inside the game's fictitious world. {% include refpointer.html id=7 %}
+A role-playing game (RPG) is a game in which each player plays the role of a character, usually in a fantasy or science fiction setting, which they may interact with inside the game's fictitious world. {% include refpointer.html id=7 %}
 
 Because of the variety of sub-genres with RPG features, defining RPGs is extremely difficult. {% include refpointer.html id=8 %}
 
@@ -133,7 +133,7 @@ Research has been done to identify the different types of computer gamers that e
 - Has low impulsivity
 - Has high self-esteem
 - Generally spends less time gaming overall
-- Finds gaming more of a hobby and not something they *have* to do
+- Finds gaming more of a hobby and not something they *have* to do
 - Gaming is just an activity that they enjoy
 
 #### Social Gamer
@@ -201,7 +201,7 @@ With the inclusion of such services, game developers have had to put systems in 
 
 There are also new security risks being exposed by computer games. A report by SecurityHQ states that “there has been a monumental surge in targeted cyber-attacks against the gaming sector, with a 167% increase in web application attacks in 2021 alone”. Of course, as the industry grows, the motivation for a successful attack grows with it. {% include refpointer.html id=27 %}
 
-A recent example is _Minecraft_ and the Log4Shell vulnerability. Log4Shell was discovered by Chen Zhaojun of the Alibaba Cloud Security Team, and is the name given to a zero-day vulnerability in Log4j, a popular logging framework for the Java programming language. _Minecraft: Java Edition_ is developed in the Java programming language, and uses Log4j, and as such, was affected by this vulnerability.  {% include refpointer.html id=28 %} {% include refpointer.html id=29 %}
+A recent example is _Minecraft_ and the Log4Shell vulnerability. Log4Shell was discovered by Chen Zhaojun of the Alibaba Cloud Security Team, and is the name given to a zero-day vulnerability in Log4j, a popular logging framework for the Java programming language. _Minecraft: Java Edition_ is developed in the Java programming language, and uses Log4j, and as such, was affected by this vulnerability.  {% include refpointer.html id=28 %} {% include refpointer.html id=29 %}
 
 The official article on the Minecraft Help website stated that “This exploit affects many services - including \_Minecraft: Java Edition\_”. Their response to the situation was swift and well-handled, providing a fix for all affected versions of the game. {% include refpointer.html id=29 %}
 
@@ -271,7 +271,7 @@ The CPU is also responsible for managing the data flow between the graphics card
 
 As of writing (March 2023), the highest ranking CPUs as according to Tom's Hardware are (in no particular order): {% include refpointer.html id=39 %}
 
-|                                      | Intel Core i5-13400 {% include refpointer.html id=42 %} | AMD Ryzen 5 7600 {% include refpointer.html id=41 %} | AMD Ryzen 9 7950X3D {% include refpointer.html id=40 %} | Intel Core i9-13900K {% include refpointer.html id=43 %} | Intel Core i5-13600K {% include refpointer.html id=44 %} | AMD Ryzen 5 7600X {% include refpointer.html id=45 %} |
+|                                      | Intel Core i5-13400 {% include refpointer.html id=42 %} | AMD Ryzen 5 7600 {% include refpointer.html id=41 %} | AMD Ryzen 9 7950X3D {% include refpointer.html id=40 %} | Intel Core i9-13900K {% include refpointer.html id=43 %} | Intel Core i5-13600K {% include refpointer.html id=44 %} | AMD Ryzen 5 7600X {% include refpointer.html id=45 %} |
 | ------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- |
 | Cores                                | 10                                                      | 6                                                    | 16                                                      | 24                                                       | 14                                                       | 6                                                     |
 | Core Clock Speed                     | 2.5 GHz                                                 | 3.8 GHz                                              | 4.2 GHz                                                 | 3 GHz                                                    | 3.5 GHz                                                  | 4.7 GHz                                               |
@@ -289,7 +289,14 @@ In gaming, the GPU plays a crucial role by generating pixels that are displayed 
 
 The more powerful the GPU, the more complex and detailed the graphics can be. This can result in smoother gameplay, higher frame rates, and more realistic visuals. Gamers often invest in high-end GPUs to get the best gaming experience possible.
 
-…
+|                   | Nvidia GeForce RTX 4070 Ti {% include refpointer.html id=46 %} | AMD Radeon RX 7900 XTX {% include refpointer.html id=46 %} | Nvidia GeForce RTX 3070 {% include refpointer.html id= 46%} | Nvidia GeForce RTX 3080 Ti {% include refpointer.html id=46 %} | Nvidia GeForce RTX 4090 {% include refpointer.html id=46 %} | Nvidia GeForce RTX 3090 {% include refpointer.html id=46 %} |
+|:-----------------:|:--------------------------------------------------------------:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
+| Stream Processors | 7,680                                                          | 4,864                                                      | 5,888                                                       | 10,240                                                         | 16,384                                                      | 10,496                                                      |
+| Core Clock        | 2,310MHz                                                       | 1,900MHz                                                   | 1.50 GHz                                                    | 1.37 GHz                                                       | 2,235 MHz                                                   | 1.40 GHz                                                    |
+| Boost Clock       | 2,730MHz                                                       | 2,500MHz                                                   | 1.73 GHz                                                    | 1.67 GHz                                                       | Unknown or N/A                                              | 1.70 GHz                                                    |
+| Memory            | 12GB GDDR6X                                                    | 24GB GDDR6                                                 | 8 GB GDDR6                                                  | 12 GB GDDR6X                                                   | 24GB GDDR6X                                                 | 24 GB GDDR6X                                                |
+| Memory Clock      | 21 Gbps effective                                              | 20Gbps (960GB/s bandwidth)                                 | 14Gbps                                                      | 14Gbps                                                         | 21.2Gbps                                                    | 19.5Gbps                                                    |
+| Outputs           | 1x HDMI 2.1 2x DisplayPort 2.1 1x USB Type-C                   | 1x HDMI 2.1 2x DisplayPort 2.1 1x USB Type-C               | 1x HDMI 2.1 3x DisplayPort 1.4a                             | 1x HDMI 3x DisplayPort                                         | 3x DisplayPort 1.4a 1x HDMI 2.1a                            | 1x HDMI 2.1 3x DisplayPort 1.4a                             |
 
 memory
 
@@ -373,3 +380,6 @@ animatio
 44. {% include reference.html link="https://uk.pcpartpicker.com/product/LfNxFT/intel-core-i5-13600k-35-ghz-14-core-processor-bx8071513600k" title="Intel Core i5-13600K 3.5 GHz 14-Core Processor" %}
 45. {% include reference.html link="https://uk.pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof" title="AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor" %}
 46. {% include reference.html link="https://www.techradar.com/news/computing-components/graphics-cards/best-graphics-cards-1291458" title="The best graphics card 2023: top GPUs for all budgets" %}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM4MzY1NjczXX0=
+-->
