@@ -291,7 +291,107 @@ The more powerful the GPU, the more complex and detailed the graphics can be. Th
 
 As of writing, according to TechRadar, some of the best GPUs are (in no particula): {% include refpointer.html id=46 %}
 
-
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Nvidia GeForce RTX 4070 Ti {% include refpointer.html id=46 %}</th>
+      <th>AMD Radeon RX 7900 XTX {% include refpointer.html id=46 %}</th>
+      <th>Nvidia GeForce RTX 3070 {% include refpointer.html id= 46%}</th>
+      <th>Nvidia GeForce RTX 3080 Ti {% include refpointer.html id=46 %}</th>
+      <th>Nvidia GeForce RTX 4090 {% include refpointer.html id=46 %}</th>
+      <th>Nvidia GeForce RTX 3090 {% include refpointer.html id=46 %}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stream Processors</td>
+      <td>7,680</td>
+      <td>4,864</td>
+      <td>5,888</td>
+      <td>10,240</td>
+      <td>16,384</td>
+      <td>10,496</td>
+    </tr>
+    <tr>
+      <td>Core Clock</td>
+      <td>2,310MHz</td>
+      <td>1,900MHz</td>
+      <td>1.50 GHz</td>
+      <td>1.37 GHz</td>
+      <td>2,235 MHz</td>
+      <td>1.40 GHz</td>
+    </tr>
+    <tr>
+      <td>Boost Clock</td>
+      <td>2,730MHz</td>
+      <td>2,500MHz</td>
+      <td>1.73 GHz</td>
+      <td>1.67 GHz</td>
+      <td>Unknown or N/A</td>
+      <td>1.70 GHz</td>
+    </tr>
+    <tr>
+      <td>Memory</td>
+      <td>12GB GDDR6X</td>
+      <td>24GB GDDR6</td>
+      <td>8 GB GDDR6</td>
+      <td>12 GB GDDR6X</td>
+      <td>24GB GDDR6X</td>
+      <td>24 GB GDDR6X</td>
+    </tr>
+    <tr>
+      <td>Memory Clock</td>
+      <td>21 Gbps effective</td>
+      <td>20Gbps (960GB/s bandwidth)</td>
+      <td>14Gbps</td>
+      <td>14Gbps</td>
+      <td>21.2Gbps</td>
+      <td>19.5Gbps</td>
+    </tr>
+    <tr>
+      <td>Outputs</td>
+      <td>
+        <ul>
+          <li>1x HDMI 2.1</li>
+          <li>2x DisplayPort 2.1</li>
+          <li>1x USB Type-C</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>1x HDMI 2.1</li>
+          <li>2x DisplayPort 2.1</li>
+          <li>1x USB Type-C</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>1x HDMI 2.1</li>
+          <li>3x DisplayPort 1.4a</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>1x HDMI</li>
+          <li>3x DisplayPort</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>3x DisplayPort 1.4a</li>
+          <li>1x HDMI 2.1a</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>1x HDMI 2.1</li>
+          <li>3x DisplayPort 1.4a</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 As you can see - AMD and Nvidia are the two main competitors in the GPU field.
 
