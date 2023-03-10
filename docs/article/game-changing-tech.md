@@ -133,7 +133,7 @@ Research has been done to identify the different types of computer gamers that e
 - Has low impulsivity
 - Has high self-esteem
 - Generally spends less time gaming overall
-- Finds gaming more of a hobby and not something they *have* to do
+- Finds gaming more of a hobby and not something they _have_ to do
 - Gaming is just an activity that they enjoy
 
 #### Social Gamer
@@ -201,7 +201,7 @@ With the inclusion of such services, game developers have had to put systems in 
 
 There are also new security risks being exposed by computer games. A report by SecurityHQ states that “there has been a monumental surge in targeted cyber-attacks against the gaming sector, with a 167% increase in web application attacks in 2021 alone”. Of course, as the industry grows, the motivation for a successful attack grows with it. {% include refpointer.html id=27 %}
 
-A recent example is _Minecraft_ and the Log4Shell vulnerability. Log4Shell was discovered by Chen Zhaojun of the Alibaba Cloud Security Team, and is the name given to a zero-day vulnerability in Log4j, a popular logging framework for the Java programming language. _Minecraft: Java Edition_ is developed in the Java programming language, and uses Log4j, and as such, was affected by this vulnerability.  {% include refpointer.html id=28 %} {% include refpointer.html id=29 %}
+A recent example is _Minecraft_ and the Log4Shell vulnerability. Log4Shell was discovered by Chen Zhaojun of the Alibaba Cloud Security Team, and is the name given to a zero-day vulnerability in Log4j, a popular logging framework for the Java programming language. _Minecraft: Java Edition_ is developed in the Java programming language, and uses Log4j, and as such, was affected by this vulnerability. {% include refpointer.html id=28 %} {% include refpointer.html id=29 %}
 
 The official article on the Minecraft Help website stated that “This exploit affects many services - including \_Minecraft: Java Edition\_”. Their response to the situation was swift and well-handled, providing a fix for all affected versions of the game. {% include refpointer.html id=29 %}
 
@@ -271,7 +271,7 @@ The CPU is also responsible for managing the data flow between the graphics card
 
 As of writing (March 2023), the highest ranking CPUs as according to Tom's Hardware are (in no particular order): {% include refpointer.html id=39 %}
 
-|                                      | Intel Core i5-13400 {% include refpointer.html id=42 %} | AMD Ryzen 5 7600 {% include refpointer.html id=41 %} | AMD Ryzen 9 7950X3D {% include refpointer.html id=40 %} | Intel Core i9-13900K {% include refpointer.html id=43 %} | Intel Core i5-13600K {% include refpointer.html id=44 %} | AMD Ryzen 5 7600X {% include refpointer.html id=45 %} |
+|                                      | Intel Core i5-13400 {% include refpointer.html id=42 %} | AMD Ryzen 5 7600 {% include refpointer.html id=41 %} | AMD Ryzen 9 7950X3D {% include refpointer.html id=40 %} | Intel Core i9-13900K {% include refpointer.html id=43 %} | Intel Core i5-13600K {% include refpointer.html id=44 %} | AMD Ryzen 5 7600X {% include refpointer.html id=45 %} |
 | ------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- |
 | Cores                                | 10                                                      | 6                                                    | 16                                                      | 24                                                       | 14                                                       | 6                                                     |
 | Core Clock Speed                     | 2.5 GHz                                                 | 3.8 GHz                                              | 4.2 GHz                                                 | 3 GHz                                                    | 3.5 GHz                                                  | 4.7 GHz                                               |
@@ -289,16 +289,163 @@ In gaming, the GPU plays a crucial role by generating pixels that are displayed 
 
 The more powerful the GPU, the more complex and detailed the graphics can be. This can result in smoother gameplay, higher frame rates, and more realistic visuals. Gamers often invest in high-end GPUs to get the best gaming experience possible.
 
-|                   | Nvidia GeForce RTX 4070 Ti {% include refpointer.html id=46 %} | AMD Radeon RX 7900 XTX {% include refpointer.html id=46 %} | Nvidia GeForce RTX 3070 {% include refpointer.html id= 46%} | Nvidia GeForce RTX 3080 Ti {% include refpointer.html id=46 %} | Nvidia GeForce RTX 4090 {% include refpointer.html id=46 %} | Nvidia GeForce RTX 3090 {% include refpointer.html id=46 %} |
-|:-----------------:|:--------------------------------------------------------------:|:----------------------------------------------------------:|:-----------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
-| Stream Processors | 7,680                                                          | 4,864                                                      | 5,888                                                       | 10,240                                                         | 16,384                                                      | 10,496                                                      |
-| Core Clock        | 2,310MHz                                                       | 1,900MHz                                                   | 1.50 GHz                                                    | 1.37 GHz                                                       | 2,235 MHz                                                   | 1.40 GHz                                                    |
-| Boost Clock       | 2,730MHz                                                       | 2,500MHz                                                   | 1.73 GHz                                                    | 1.67 GHz                                                       | Unknown or N/A                                              | 1.70 GHz                                                    |
-| Memory            | 12GB GDDR6X                                                    | 24GB GDDR6                                                 | 8 GB GDDR6                                                  | 12 GB GDDR6X                                                   | 24GB GDDR6X                                                 | 24 GB GDDR6X                                                |
-| Memory Clock      | 21 Gbps effective                                              | 20Gbps (960GB/s bandwidth)                                 | 14Gbps                                                      | 14Gbps                                                         | 21.2Gbps                                                    | 19.5Gbps                                                    |
-| Outputs           | 1x HDMI 2.1 2x DisplayPort 2.1 1x USB Type-C                   | 1x HDMI 2.1 2x DisplayPort 2.1 1x USB Type-C               | 1x HDMI 2.1 3x DisplayPort 1.4a                             | 1x HDMI 3x DisplayPort                                         | 3x DisplayPort 1.4a 1x HDMI 2.1a                            | 1x HDMI 2.1 3x DisplayPort 1.4a                             |
+As of writing, according to TechRadar, some of the best GPUs are (in no particula): {% include refpointer.html id=46 %}
 
-memory
+<table class="table table-striped table-bordered">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Nvidia GeForce RTX 4070 Ti {% include refpointer.html id=46 %}</th>
+      <th>AMD Radeon RX 7900 XTX {% include refpointer.html id=46 %}</th>
+      <th>Nvidia GeForce RTX 3070 {% include refpointer.html id= 46%}</th>
+      <th>Nvidia GeForce RTX 3080 Ti {% include refpointer.html id=46 %}</th>
+      <th>Nvidia GeForce RTX 4090 {% include refpointer.html id=46 %}</th>
+      <th>Nvidia GeForce RTX 3090 {% include refpointer.html id=46 %}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stream Processors</td>
+      <td>7,680</td>
+      <td>4,864</td>
+      <td>5,888</td>
+      <td>10,240</td>
+      <td>16,384</td>
+      <td>10,496</td>
+    </tr>
+    <tr>
+      <td>Core Clock</td>
+      <td>2,310MHz</td>
+      <td>1,900MHz</td>
+      <td>1.50 GHz</td>
+      <td>1.37 GHz</td>
+      <td>2,235 MHz</td>
+      <td>1.40 GHz</td>
+    </tr>
+    <tr>
+      <td>Boost Clock</td>
+      <td>2,730MHz</td>
+      <td>2,500MHz</td>
+      <td>1.73 GHz</td>
+      <td>1.67 GHz</td>
+      <td>Unknown or N/A</td>
+      <td>1.70 GHz</td>
+    </tr>
+    <tr>
+      <td>Memory</td>
+      <td>12GB GDDR6X</td>
+      <td>24GB GDDR6</td>
+      <td>8 GB GDDR6</td>
+      <td>12 GB GDDR6X</td>
+      <td>24GB GDDR6X</td>
+      <td>24 GB GDDR6X</td>
+    </tr>
+    <tr>
+      <td>Memory Clock</td>
+      <td>21 Gbps effective</td>
+      <td>20Gbps (960GB/s bandwidth)</td>
+      <td>14Gbps</td>
+      <td>14Gbps</td>
+      <td>21.2Gbps</td>
+      <td>19.5Gbps</td>
+    </tr>
+    <tr>
+      <td>Outputs</td>
+      <td>
+        <ul>
+          <li>1x HDMI 2.1</li>
+          <li>2x DisplayPort 2.1</li>
+          <li>1x USB Type-C</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>1x HDMI 2.1</li>
+          <li>2x DisplayPort 2.1</li>
+          <li>1x USB Type-C</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>1x HDMI 2.1</li>
+          <li>3x DisplayPort 1.4a</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>1x HDMI</li>
+          <li>3x DisplayPort</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>3x DisplayPort 1.4a</li>
+          <li>1x HDMI 2.1a</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>1x HDMI 2.1</li>
+          <li>3x DisplayPort 1.4a</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+As you can see - AMD and Nvidia are the two main competitors in the GPU field.
+
+### Memory (RAM)
+
+RAM (Random Access Memory, or just Memory) is a type of computer memory that temporarily stores data and instructions that are actively being used by the computer's CPU (Central Processing Unit). RAM is a crucial component of a computer's architecture and is responsible for providing fast access to data and instructions that are currently in use, as opposed to slower storage devices like hard drives or SSDs.
+
+In gaming, RAM plays an important role in ensuring smooth gameplay by allowing the computer to store and access large amounts of game data quickly. When you launch a game, the game's data is loaded into RAM, from storage, so that it can be accessed quickly by the CPU when needed. This includes things like the game's graphics, sound effects, music, and other game assets.
+
+Having enough RAM is important for gaming, as it allows the computer to run the game smoothly without stuttering or freezing. This is because is takes noticably longer to load data from storage instead of memory. The amount of RAM required for gaming depends on the specific game you are playing, as well as the overall configuration of your computer. Generally speaking, most modern games require at least 8GB of RAM, although some games may require more. If you have an insufficient amount of memory, your computer may struggle to keep up with the demands of the game, resulting in a suboptimal gaming experience.
+
+As according to IGN, some of the best memory is: {% include refpointer.html id=47 %}
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Corsair Vengeance RGB {% include refpointer.html id=47 %}</th>
+      <th>HyperX Predator DDR4 RGB {% include refpointer.html id=47 %}</th>
+      <th>Corsair Dominator Platinum RGB {% include refpointer.html id=47 %}</th>
+      <th>G.Skill Trident Z5 RGB Series {% include refpointer.html id=47 %}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Type</td>
+      <td>DDR5 SDRAM</td>
+      <td>DDR4 SDRAM</td>
+      <td>DDR5 SDRAM</td>
+      <td>DDR5 SDRAM</td>
+    </tr>
+    <tr>
+      <td>Capacity</td>
+      <td>32GB (2 x 16GB)</td>
+      <td>16GB (2 x 8GB)</td>
+      <td>32GB (2 x 16GB)</td>
+      <td>32GB (2 x 16GB)</td>
+    </tr>
+    <tr>
+      <td>Speed</td>
+      <td>5,600MHz</td>
+      <td>3,200MHz</td>
+      <td>5,200MHz</td>
+      <td>DDR5 SDRAM</td>
+    </tr>
+    <tr>
+      <td>CAS Latency</td>
+      <td>40</td>
+      <td>16</td>
+      <td>38</td>
+      <td>32</td>
+    </tr>
+  </tbody>
+</table>
 
 storage
 
@@ -380,6 +527,4 @@ animatio
 44. {% include reference.html link="https://uk.pcpartpicker.com/product/LfNxFT/intel-core-i5-13600k-35-ghz-14-core-processor-bx8071513600k" title="Intel Core i5-13600K 3.5 GHz 14-Core Processor" %}
 45. {% include reference.html link="https://uk.pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof" title="AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor" %}
 46. {% include reference.html link="https://www.techradar.com/news/computing-components/graphics-cards/best-graphics-cards-1291458" title="The best graphics card 2023: top GPUs for all budgets" %}
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzY1NjczXX0=
--->
+47. {% include reference.html link="https://www.ign.com/articles/best-ram" title="Best RAM in 2023 - IGN" %}
