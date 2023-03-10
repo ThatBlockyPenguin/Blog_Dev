@@ -291,7 +291,7 @@ The more powerful the GPU, the more complex and detailed the graphics can be. Th
 
 As of writing, according to TechRadar, some of the best GPUs are (in no particula): {% include refpointer.html id=46 %}
 
-<table class="table table-striped table-bordered">
+<table>
   <thead>
     <tr>
       <th></th>
