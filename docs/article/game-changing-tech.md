@@ -229,7 +229,7 @@ The 2010s marked the explosion of mobile gaming thanks to the widespread adoptio
 
 Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and Valve Index allow players to fully immerse themselves in virtual worlds, while eports tournaments and leagues draw millions of viewers worldwide. Gaming continues to evolve and expand, and it will be exciting to see what the future holds for this industry.
 
-{% include img.html url="https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg" src="https://www.valvesoftware.com/en/index" credit="Valve" %}
+{% include img.html url="https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg" src="https://www.valvesoftware.com/en/index" credit="Valve" desc="Valve Index on display" %}
 
 #### Hardware
 
@@ -281,7 +281,7 @@ As you can see, AMD and Intel have cornered the market for CPUs, and, in fact, a
 
 #### Graphics Processing Unit (GPU)
 
-{% include img.html url="https://assets.reedpopcdn.com/gpu-power-ladder-all-graphics-cards-tested-1569663337391.jpg/BROK/resize/1380%3E/format/jpg/quality/75/gpu-power-ladder-all-graphics-cards-tested-1569663337391.jpg" src="https://www.eurogamer.net/digitalfoundry-2019-09-27-gpu-power-ladder-all-graphics-cards-tested" credit="EuroGamer" %}
+{% include img.html url="https://assets.reedpopcdn.com/gpu-power-ladder-all-graphics-cards-tested-1569663337391.jpg/BROK/resize/1380%3E/format/jpg/quality/75/gpu-power-ladder-all-graphics-cards-tested-1569663337391.jpg" src="https://www.eurogamer.net/digitalfoundry-2019-09-27-gpu-power-ladder-all-graphics-cards-tested" credit="EuroGamer" desc="Nvidia RTX 2080 Ti" %}
 
 The GPU is a specialised processor that is designed to handle the complex mathematical calculations required for rendering high-quality graphics, to the screen.
 
