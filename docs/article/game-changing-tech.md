@@ -395,7 +395,7 @@ As of writing, according to TechRadar, some of the best GPUs are (in no particul
 
 As you can see - AMD and Nvidia are the two main competitors in the GPU field.
 
-### Memory (RAM)
+#### Memory (RAM)
 
 RAM (Random Access Memory, or just Memory) is a type of computer memory that temporarily stores data and instructions that are actively being used by the computer's CPU (Central Processing Unit). RAM is a crucial component of a computer's architecture and is responsible for providing fast access to data and instructions that are currently in use, as opposed to slower storage devices like hard drives or SSDs.
 
@@ -413,7 +413,24 @@ As according to IGN, some of the best memory is: {% include refpointer.html id=4
 | CAS Latency                                               | 40                                                           | 16                                                                 | 38                                                                 | 32                                                                |
 
 
-storage
+#### Storage
+
+Storage is like memory, as in, it provides a location for data to be kept, except that storage provides a long-term data repository, whereas RAM is short-term. The role of storage in gaming is critical, as it enables players to save game progress, store game files, and install game updates. Without storage, there wouldn't even be an Operating System (i.e. Windows, macOS, etc) for the game to run on.
+
+Obviously, the ability to store game save data is crucial in gameing. It allows players to pick up where they left off in a game, rather than starting from scratch each time they restart the game. Storage is also used to store game installations and updates, which can be downloaded and installed from online stores. As games become more complex and detailed, the size of these files can be quite large, requiring larger and faster storage devices to ensure smooth gameplay and fast loading times.
+
+Many gaming platforms also allow players to back up their save files to cloud-based storage, which ensures that progress is not lost in the event of a hardware failure or other issue. In addition, some gaming platforms offer automatic cloud backups, which enable players to seamlessly switch between devices and continue playing their game without interruption.
+
+There are two main types of storage - Hard Disk Drives (HDDs) and Solid-State Drives (SSDs). HDDs have a spinning metal disc inside which is used to encode data magnetically. SSDs have no moving parts, and are purely electronical. They work like flash storage - the type in USB sticks. Because of the moving parts, HDDs are more fragile than SSDs, and are also slower to read and write data. SSDs are faster, but they generally have a lower storage capacity than HDDs (although they are slowly catching up!). Due to the higher speed, SSDs are generally recommended for gaming, but some people have a HDD for their main storage and a separate SSD solely for their games & game data, so they can get the most out of the storage capacity.
+
+PCGamer has a list of the best SSDs for gaming, some of which are below, in no particular order (specifications from PCPartPicker): {% include refpointer.html id=48 %}
+
+|                                             | Western Digital Black SN850X {% include refpointer.html id=49 %} | SK Hynix Platinum P41{% include refpointer.html id=50 %} | Seagate Firecuda 530 {% include refpointer.html id=51 %} |
+|---------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| Capacity                                    | 1 TB, 2 TB, 4 TB                                                 | 500 GB, 1 TB, 2 TB                                       | 500 GB, 1 TB, 2 TB, 4 TB                                 |
+| Interface                                   | M.2 PCIe 4.0 X4                                                  | M.2 PCIe 4.0 X4                                          | M.2 PCIe 4.0 X4                                          |
+| Sequential Read Throughput (Disk 50% Full)  | 3994 MB/s                                                        | 5599 MB/s                                                | 3123 MB/s                                                |
+| Sequential Write Throughput (Disk 50% Full) | 1841 MB/s                                                        | 3055 MB/s                                                | 3194 MB/s                                                |
 
 output
 
@@ -494,3 +511,7 @@ animatio
 45. {% include reference.html link="https://uk.pcpartpicker.com/product/66C48d/amd-ryzen-5-7600x-47-ghz-6-core-processor-100-100000593wof" title="AMD Ryzen 5 7600X 4.7 GHz 6-Core Processor" %}
 46. {% include reference.html link="https://www.techradar.com/news/computing-components/graphics-cards/best-graphics-cards-1291458" title="The best graphics card 2023: top GPUs for all budgets" %}
 47. {% include reference.html link="https://www.ign.com/articles/best-ram" title="Best RAM in 2023 - IGN" %}
+48. {% include reference.html link="https://www.pcgamer.com/best-ssd-for-gaming/" title="Best SSD for gaming in 2023 | PC Gamer" %}
+49. {% include reference.html link="https://pcpartpicker.com/product/DyhFf7/western-digital-black-sn850x-1-tb-m2-2280-nvme-solid-state-drive-wds100t2x0e" title="Western Digital Black SN850X 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive" %}
+50. {% include reference.html link="https://pcpartpicker.com/product/yGTp99/sk-hynix-platinum-p41-2-tb-m2-2280-nvme-solid-state-drive-shpp41-2000gm-2" title="SK Hynix Platinum P41 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive" %}
+51. {% include reference.html link="https://pcpartpicker.com/product/wXJgXL/seagate-firecuda-530-2-tb-m2-2280-nvme-solid-state-drive-zp2000gm3a013" title="Seagate FireCuda 530 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive" %}
