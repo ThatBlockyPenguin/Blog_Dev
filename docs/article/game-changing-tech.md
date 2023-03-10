@@ -229,9 +229,7 @@ The 2010s marked the explosion of mobile gaming thanks to the widespread adoptio
 
 Today, virtual reality gaming and esports are becoming more and more popular. VR headsets like the Oculus Rift and Valve Index allow players to fully immerse themselves in virtual worlds, while eports tournaments and leagues draw millions of viewers worldwide. Gaming continues to evolve and expand, and it will be exciting to see what the future holds for this industry.
 
-| ![Valve Index](https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg)          |
-| ------------------------------------------------------------------------------------------------------ |
-| Valve Index on display - [Image from Valve](https://www.valvesoftware.com/en/index){:target="\_blank"} |
+{% include img.html url="https://cdn.akamai.steamstatic.com/valvesoftware/images/index/videos/Main.jpg" src="https://www.valvesoftware.com/en/index" credit="Valve" %}
 
 #### Hardware
 
@@ -282,6 +280,8 @@ As of writing (March 2023), the highest ranking CPUs as according to Tom's Hardw
 As you can see, AMD and Intel have cornered the market for CPUs, and, in fact, are pretty much the only two companies in the business - especially for consumer devices.
 
 #### Graphics Processing Unit (GPU)
+
+{% include img.html url="https://assets.reedpopcdn.com/gpu-power-ladder-all-graphics-cards-tested-1569663337391.jpg/BROK/resize/1380%3E/format/jpg/quality/75/gpu-power-ladder-all-graphics-cards-tested-1569663337391.jpg" src="https://www.eurogamer.net/digitalfoundry-2019-09-27-gpu-power-ladder-all-graphics-cards-tested" credit="EuroGamer" %}
 
 The GPU is a specialised processor that is designed to handle the complex mathematical calculations required for rendering high-quality graphics, to the screen.
 
@@ -432,7 +432,50 @@ PCGamer has a list of the best SSDs for gaming, some of which are below, in no p
 | Sequential Read Throughput (Disk 50% Full)  | 3994 MB/s                                                        | 5599 MB/s                                                | 3123 MB/s                                                |
 | Sequential Write Throughput (Disk 50% Full) | 1841 MB/s                                                        | 3055 MB/s                                                | 3194 MB/s                                                |
 
-output
+### Output
+
+#### Display
+
+There are several types of video output available, including HDMI, DisplayPort, and VGA. Each has its own unique set of pros and cons that should be considered when deciding which type of output to use.
+
+HDMI is the most commonly used output for gaming and offers high-quality video and audio transmission. It is easy to use and supports high resolutions and refresh rates. However, it has limited bandwidth compared to other types of output, which can affect performance at higher resolutions and refresh rates.
+
+DisplayPort is another popular output for gaming that offers higher bandwidth than HDMI, making it better suited for high-resolution gaming. It also supports advanced features like G-Sync and FreeSync, which can provide a smoother gaming experience. It can also transmit audio, although it is not a required specification for manufacturers. However, it is less common than HDMI, and not all gaming monitors and graphics cards support it.
+
+VGA is an older output that is still used in some older setups, although very rare in modern gaming. It offers lower quality than HDMI and DisplayPort and is limited in terms of resolution and refresh rates. However, it can still be useful for older systems that do not support newer types of output. It does not carry an audio signal.
+
+In summary, HDMI is the best choice for most gaming setups due to its high-quality video and audio transmission and wide compatibility. DisplayPort is a good alternative for high-resolution gaming and advanced features, while VGA is suitable only for older systems or as a backup option.
+
+#### Audio
+
+In addition to video output options, there are several types of audio output options available for gaming setups. The most common audio output options for gaming include the 3.5mm audio jack, USB, and optical audio.
+
+The 3.5mm audio jack is the most widely used audio output option for gaming, and it is found on most headsets and speakers. It is easy to use - simply plug and play - and most gaming setups have a 3.5mm jack built-in. However, it is limited in terms of audio quality and does not support advanced features like true surround sound.
+
+USB audio output is another popular option that offers better audio quality than the 3.5mm jack. It also supports advanced features like surround sound, however, not all gaming headsets and speakers support USB audio, and it can be more expensive than a standard 3.5mm headset. USB audio also eliminates any interference from the motherboard or other components in the gaming setup. However, not all gaming headsets and speakers support USB audio, and it can be more expensive than a standard 3.5mm headset.
+
+Optical audio is another option that provides high-quality audio and supports advanced features like surround sound. However, it is much less common than the 3.5mm jack and USB and requires a dedicated optical audio port on the gaming setup. It uses fiber optic cables to transmit audio data, which eliminates any interference or noise from other components in the gaming setup. Because of this, the cables should not be bent much, which may not be ideal for a gaming setup.
+
+In summary, the choice of audio output option for gaming depends on the specific needs of the user. The 3.5mm jack is the most commonly used option and is suitable for most casual gamers. USB audio provides better audio quality and advanced features, while optical audio offers high-quality audio and surround sound, but requires a dedicated port and may be more expensive.
+
+It should also be noted that some video output options also allow for audio transmission, such as HDMI or DisplayPort.
+
+#### Other
+
+In addition to video and audio output, modern gaming systems also support various other output options, such as vibrations and haptic feedback, that enhance the gaming experience. When choosing gaming accessories, it's important to consider which types of feedback they support and how they can enhance your gaming experience.
+
+##### Vibrations
+
+Vibrations are a common form of feedback used in mobile phones, gaming controllers, and accessories. They provide tactile feedback to players, such as the feeling of recoil when firing a gun or the rumble of a car engine. Vibrations are a simple but effective way to add immersion to games, and most gaming controllers support vibration feedback. It does require a device that supports vibrations however (e.g. a mouse and keyboard don't support vibration).
+
+##### Haptic feedback
+
+Haptic feedback is a more advanced form of feedback that uses more sophisticated technology to simulate a range of tactile sensations, such as pressure, texture, and temperature. Haptic feedback is becoming more common in modern gaming systems, and it is used to provide a more realistic and immersive gaming experience. Some controllers and accessories, such as the PlayStation DualSense controller, use haptic feedback to provide advanced sensations like adaptive triggers, which can simulate the feeling of tension in a bowstring or the resistance of a trigger.
+
+##### Force Feedback
+
+Other types of feedback, such as force feedback in steering wheels and flight sticks, provide additional immersion by simulating the feeling of resistance and weight in different situations.
+
 
 input
 
