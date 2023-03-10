@@ -432,9 +432,9 @@ PCGamer has a list of the best SSDs for gaming, some of which are below, in no p
 | Sequential Read Throughput (Disk 50% Full)  | 3994 MB/s                                                        | 5599 MB/s                                                | 3123 MB/s                                                |
 | Sequential Write Throughput (Disk 50% Full) | 1841 MB/s                                                        | 3055 MB/s                                                | 3194 MB/s                                                |
 
-### Output
+#### Output
 
-#### Display
+##### Display
 
 There are several types of video output available, including HDMI, DisplayPort, and VGA. Each has its own unique set of pros and cons that should be considered when deciding which type of output to use.
 
@@ -446,7 +446,7 @@ VGA is an older output that is still used in some older setups, although very ra
 
 In summary, HDMI is the best choice for most gaming setups due to its high-quality video and audio transmission and wide compatibility. DisplayPort is a good alternative for high-resolution gaming and advanced features, while VGA is suitable only for older systems or as a backup option.
 
-#### Audio
+##### Audio
 
 In addition to video output options, there are several types of audio output options available for gaming setups. The most common audio output options for gaming include the 3.5mm audio jack, USB, and optical audio.
 
@@ -460,24 +460,88 @@ In summary, the choice of audio output option for gaming depends on the specific
 
 It should also be noted that some video output options also allow for audio transmission, such as HDMI or DisplayPort.
 
-#### Other
+##### Other
 
 In addition to video and audio output, modern gaming systems also support various other output options, such as vibrations and haptic feedback, that enhance the gaming experience. When choosing gaming accessories, it's important to consider which types of feedback they support and how they can enhance your gaming experience.
 
-##### Vibrations
+###### Vibrations
 
 Vibrations are a common form of feedback used in mobile phones, gaming controllers, and accessories. They provide tactile feedback to players, such as the feeling of recoil when firing a gun or the rumble of a car engine. Vibrations are a simple but effective way to add immersion to games, and most gaming controllers support vibration feedback. It does require a device that supports vibrations however (e.g. a mouse and keyboard don't support vibration).
 
-##### Haptic feedback
+###### Haptic feedback
 
 Haptic feedback is a more advanced form of feedback that uses more sophisticated technology to simulate a range of tactile sensations, such as pressure, texture, and temperature. Haptic feedback is becoming more common in modern gaming systems, and it is used to provide a more realistic and immersive gaming experience. Some controllers and accessories, such as the PlayStation DualSense controller, use haptic feedback to provide advanced sensations like adaptive triggers, which can simulate the feeling of tension in a bowstring or the resistance of a trigger.
 
-##### Force Feedback
+#### Input
 
-Other types of feedback, such as force feedback in steering wheels and flight sticks, provide additional immersion by simulating the feeling of resistance and weight in different situations.
+Input devices are essential in gaming since they allow players to interact with the game. Below are the most prevalent gaming input devices, along with their benefits and drawbacks:
 
+1. Keyboard and Mouse:
+   
+   The keyboard and mouse combination is a classic input method for PC gaming. The keyboard provides access to a large number of hotkeys and shortcuts, while the mouse offers precise aiming and movement control.
+   
+   Pros:
+   - Provides access to a large number of hotkeys and shortcuts, allowing for quick and efficient control of game mechanics.
+   - Offers precise aiming and movement control, particularly for first-person shooter games and real-time strategy games.
+   - Allows players to customize the key bindings to their liking.
+   
+   Cons:
+   - Requires a flat and stable surface to use properly.
+   - Can be uncomfortable to use for long periods of time.
+   - Can be difficult to use for games that require analog controls, such as driving games.
+   
+   Best suited for:
+   - First-person shooter games.
+   - Real-time strategy games.
+   - Multiplayer online battle arena (MOBA) games.
 
-input
+2. Gamepad:
+   Gamepads are the most common input device for consoles, and they provide players with a compact and ergonomic control scheme.
+
+   Pros:
+   - Offers a comfortable and ergonomic design for extended use.
+   - Features analog sticks and triggers, making it ideal for games that require analog controls.
+   - Often features a built-in rechargeable battery, reducing the need for constant battery replacement.
+
+   Cons:
+   - Provides access to fewer buttons and hotkeys compared to a keyboard.
+   - Not as precise as a mouse when it comes to aiming.
+
+   Best suited for:
+   - Platformer games.
+   - Fighting games.
+   - Racing games.
+
+3. Joystick:
+   Joysticks are similar to gamepads, but they offer a more specialized control scheme and are typically used for flight simulators and space combat games.
+
+   Pros:
+   - Provides a more immersive experience, particularly for flight simulators and space combat games.
+   - Offers precise control over a wide range of movements.
+
+   Cons:
+   - Not as versatile as a gamepad or keyboard and mouse combo.
+   - Typically more expensive than other input devices.
+
+   Best suited for:
+   - Flight simulators.
+   - Space combat games.
+
+4. Virtual Reality Controllers:
+   
+   Virtual reality controllers are specialized input devices designed for use with virtual reality headsets. These controllers allow players to interact with the game world using their hands, providing a more immersive experience.
+   
+   Pros:
+   - Provides a highly immersive experience.
+   - Offers precise control over movements and interactions within the game world.
+   
+   Cons:
+   - Requires a virtual reality headset to use.
+   - Can be expensive.
+
+   Best suited for:
+   - Virtual reality games and experiences.
+   - In conclusion, the best input device for gaming depends on the type of game being played. Each input device has its strengths and weaknesses, and players should choose the one that best suits their playing style and the type of game they are playing.
 
 connections
 
