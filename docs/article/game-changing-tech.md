@@ -477,18 +477,20 @@ Haptic feedback is a more advanced form of feedback that uses more sophisticated
 Input devices are essential in gaming since they allow players to interact with the game. Below are the most prevalent gaming input devices, along with their benefits and drawbacks:
 
 1. Keyboard and Mouse:
+
+   {% include sideimg.html url="https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/combos/mk345/gallery/mk345-gallery-1-new.png?v=1" src="https://www.logitech.com/en-gb/products/combos/mk345-keyboard-mouse-wireless.920-006488.html" credit="Logitech" desc="A keyboard and mouse combo" %}
    
-   The keyboard and mouse combination is a classic input method for PC gaming. The keyboard provides access to a large number of hotkeys and shortcuts, while the mouse offers precise aiming and movement control.
+   The keyboard and mouse combo is a traditional PC gaming input technique. The keyboard allows you to access a huge variety of hotkeys and shortcuts, whilst the mouse allows you to aim precisely and move about.
    
    Pros:
-   - Provides access to a large number of hotkeys and shortcuts, allowing for quick and efficient control of game mechanics.
-   - Offers precise aiming and movement control, particularly for first-person shooter games and real-time strategy games.
-   - Allows players to customize the key bindings to their liking.
+   - Access to a large number of hotkeys and shortcuts, allowing for rapid and efficient control of game mechanics.
+   - Provides accurate targeting and movement control, which is especially useful in first-person shooter and real-time strategy games.
+   - Players can change the key bindings to their preference.
    
    Cons:
    - Requires a flat and stable surface to use properly.
-   - Can be uncomfortable to use for long periods of time.
-   - Can be difficult to use for games that require analog controls, such as driving games.
+   - Some people might find it uncomfortable to use for extended periods of time.
+   - It might be challenging to use for games that require analogue controls, such as racing games.
    
    Best suited for:
    - First-person shooter games.
@@ -496,16 +498,16 @@ Input devices are essential in gaming since they allow players to interact with 
    - Multiplayer online battle arena (MOBA) games.
 
 2. Gamepad:
-   Gamepads are the most common input device for consoles, and they provide players with a compact and ergonomic control scheme.
+   Gamepads are the most popular console input device, offering gamers a compact and ergonomic control system.
 
    Pros:
-   - Offers a comfortable and ergonomic design for extended use.
-   - Features analog sticks and triggers, making it ideal for games that require analog controls.
-   - Often features a built-in rechargeable battery, reducing the need for constant battery replacement.
+   - Provides a comfortable and ergonomic design that is well-suited for prolonged use.
+   - It has analogue sticks and triggers, making it perfect for analogue-controlled games, such as racing games.
+   - Often features a built-in rechargeable battery or replacable standard AA or AAA batteries.
 
    Cons:
-   - Provides access to fewer buttons and hotkeys compared to a keyboard.
-   - Not as precise as a mouse when it comes to aiming.
+   - Provides fewer controls when compared to a keyboard.
+   - Not well suited for precise aiming.
 
    Best suited for:
    - Platformer games.
@@ -543,7 +545,23 @@ Input devices are essential in gaming since they allow players to interact with 
    - Virtual reality games and experiences.
    - In conclusion, the best input device for gaming depends on the type of game being played. Each input device has its strengths and weaknesses, and players should choose the one that best suits their playing style and the type of game they are playing.
 
-connections
+-=-=-=-=-
+
+#### Connections
+
+When it comes to online gaming, the sort of connection you use can have a huge influence on your gaming experience. There are numerous sorts of connections available, each with its own set of advantages and disadvantages.
+
+An Internet connection is the most common type of connection used for online gaming. It allows players to connect to game servers over the Internet and play with other players around the world. Internet connections are usually required for games with online multiplayer modes or MMO games. However, lag and connectivity issues may occur due to distance and internet traffic, and a stable and fast internet connection is required, which may not be available in all areas.
+
+A local network connection allows players to connect to other devices on the same network, such as other players in the same household or LAN party. Local network connections are ideal for local multiplayer games. They offer low latency and high-speed connection for most devices connected to the same network. However, they are limited to players on the same network, and may require a high-speed router or additional hardware to manage multiple connections.
+
+A mobile network connection allows players to connect to game servers through their mobile devices, such as smartphones or tablets. Mobile network connections are best suited for gaming on-the-go. They offer mobility and a high-speed and stable connection in most urban areas. However, they are limited to data plans, which can be expensive or have limited data usage, and may not be suitable for gaming requiring precise timing or fast reactions.
+
+Bluetooth and Wi-Fi Direct connections allow players to connect to other devices directly without the need for an internet connection. These connections are suitable for connecting two devices in close proximity. They offer low latency and high-speed connection for devices connected through the same connection, and no need for an internet connection or mobile data plan. However, they are limited to players in close proximity and may require devices to be connected manually, which can be time-consuming.
+
+In conclusion, the best type of connection for online gaming depends on several factors, including the type of game, the player's location, and the player's device. Internet connections are best suited for online multiplayer games with players around the world, while local network connections are ideal for local multiplayer games. Mobile network connections are best for gaming on-the-go, while Bluetooth or Wi-Fi Direct connections are suitable for connecting two devices in close proximity.
+
+-=-=-=-=-
 
 ### Software Options
 
