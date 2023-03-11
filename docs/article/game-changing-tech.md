@@ -605,7 +605,7 @@ Bluetooth and Wi-Fi Direct connections allow players to connect to other devices
 
   - Valve has also created SteamOS, a Linux-based game operating system, and the Steam Deck, a portable gaming device that runs a modified version of SteamOS. These advances have boosted interest in Linux as a viable gaming platform, which may lead to further game support in the future.
 
-  Performance: Linux is known for its excellent performance, which can lead to smoother gameplay and faster load times.
+  - Linux is known for its excellent performance, which can lead to smoother gameplay and faster load times.
 
   - Many popular game engines, such as Unity and Unreal Engine, have added Linux support, making it easier for developers to create games that run on the platform.
 
@@ -614,6 +614,16 @@ Bluetooth and Wi-Fi Direct connections allow players to connect to other devices
   - Linux is free and open-source, which means that gamers don't have to pay for expensive operating systems or software licenses.
 
 #### Programming Language
+
+Programming languages are instruction sets designed for humans to write and computers to execute. They are used to create software applications, websites, and other computer programs, including games. Code written in these languages make up every part of a game that isn't a resource (something like a texture or sound file). In this section, we will explore some of the most commonly used programming languages in the gaming industry, including their pros and cons.
+
+- C++
+
+  | Pros:                                     | Cons:                              |
+  | :---------------------------------------: | :--------------------------------: |
+  | + Supported by Unreal Game Engine         |                                    |
+  | + Large online community/open-source code | + Difficult for beginners to learn |
+  | + Cross-platform language                 |                                    |
 
 #### Drivers
 
