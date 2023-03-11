@@ -537,6 +537,8 @@ Input devices are essential in gaming since they allow players to interact with 
 
 4. Virtual Reality Controllers:
    
+   {% include sideimg.html url="https://cdn-afkgp.nitrocdn.com/GgcvDclOgOFrMPDAxuwUmHHZlgKuQsxq/assets/images/optimized/rev-95176e4/wp-content/uploads/2021/06/best-vr-controller.jpg" src="https://www.pcguide.com/vr/guide/best-controller/" credit="PCGuide" desc="Oculus Touch controllers" %}
+   
    Virtual reality controllers are specialized input devices designed for use with virtual reality headsets. These controllers allow players to interact with the game world using their hands, providing a more immersive experience.
    
    Pros:
