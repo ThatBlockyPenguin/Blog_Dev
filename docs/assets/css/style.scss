@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 table.sideimg {
+  display: inline;
   float: right;
   margin: 0.5em;
   width: 25%;
