@@ -665,7 +665,7 @@ Programming languages are instruction sets designed for humans to write and comp
   - 2048
   - Box Critters
 
-- Java
+- Java {% include refpointer.html id=56 %}
   
   | Pros:                                           | Cons:                                          |
   | ----------------------------------------------- | ---------------------------------------------- |
@@ -697,7 +697,19 @@ You can also get drivers for things like mice, keyboards, GPUs, and speakers/sou
 
 #### Graphics
 
+A "library", in programming terms, is a collection of code that has been written by another person or group of people, and can be imported for use within other programs. Graphics libraries are an example of these.
 
+Graphics libraries play a critical role in modern gaming, enabling game developers to create immersive and visually stunning games. Graphics libraries provide a standardised way for game developers to access the graphics hardware of input/output devices such as graphics cards, which allows them to create advanced graphics and animations.
+
+Two of the most popular graphics libraries used in gaming are DirectX and OpenGL. DirectX is a set of APIs developed by Microsoft that provides access to the hardware features of input/output devices, such as graphics cards and sound cards. DirectX includes audio, graphics, and input APIs, which allow game developers to create games that work well on a variety of hardware configurations. DirectX is included in Windows, making it one of the most popular graphics libraries around. {% include refpointer.html id=58 %}
+
+OpenGL, short for "Open Graphics Library", is an open-source solution that provides access to the graphics hardware of input/output devices. It is designed to be platform-independent, which means that games developed using OpenGL can run on a wide range of hardware and operating systems. OpenGL is particularly popular on Linux and macOS platforms.  {% include refpointer.html id=59 %}
+
+Both DirectX and OpenGL provide game developers with a set of tools and functions that can be used to create advanced graphics and animations. For example, they include functions for creating 2D and 3D graphics, handling textures, and managing lighting and shadows. These tools and functions allow game developers to create visually stunning environments, characters, and objects that help bring the game world to life. {% include refpointer.html id=58 %} {% include refpointer.html id=59 %}
+
+In addition to DirectX and OpenGL, game engines like Unreal Engine and Unity also include a range of graphics libraries that game developers can use to create advanced graphics and animations. These engines often include both DirectX and OpenGL, as well as other graphics libraries like Vulkan and Metal, which provide additional functionality and support for different hardware configurations.
+
+So, graphics libraries provide game developers with a standardised way to access the graphics hardware of input/output devices and a set of tools and functions for creating advanced graphics and animations. By using these graphics libraries, game developers can create games that work well on a variety of hardware configurations and offer players an immersive and engaging gaming experience.
 
 #### Audio
 
@@ -774,3 +786,5 @@ animatio
 55. {% include reference.html link="https://appleinsider.com/articles/22/07/01/how-gaming-on-the-mac-is-getting-better-with-macos-ventura" title="How gaming on the Mac is getting better with macOS Ventura" %}
 56. {% include reference.html link="https://hackr.io/blog/best-programming-language-for-games" title="7 Best Programming Languages for Game Development in 2023" %}
 57. {% include reference.html link="https://www.codeguru.com/csharp/c-sharp-disadvantages/" title="Disadvantages of C# | CodeGuru.com" %}
+58. {% include reference.html link="https://www.windowscentral.com/what-directx-why-does-matter-gaming" title="What is DirectX, and why does it matter for gaming?" %}
+59. {% include reference.html link="https://techterms.com/definition/opengl" title="OpenGL Definition" %}
