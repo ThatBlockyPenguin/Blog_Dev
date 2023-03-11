@@ -557,19 +557,23 @@ Input devices are essential in gaming since they allow players to interact with 
 
 #### Connections
 
-When it comes to online gaming, the sort of connection you use can have a huge influence on your gaming experience. There are numerous sorts of connections available, each with its own set of advantages and disadvantages.
+When it comes to multiplayer gaming, the sort of connection you use can have a huge influence on your gaming experience. There are numerous sorts of connections available, each with its own set of advantages and disadvantages.
 
-An Internet connection is the most common type of connection used for online gaming. It allows players to connect to game servers over the Internet and play with other players around the world. Internet connections are usually required for games with online multiplayer modes or MMO games. However, lag and connectivity issues may occur due to distance and internet traffic, and a stable and fast internet connection is required, which may not be available in all areas.
+##### Internet 
 
-A local network connection allows players to connect to other devices on the same network, such as other players in the same household or LAN party. Local network connections are ideal for local multiplayer games. They offer low latency and high-speed connection for most devices connected to the same network. However, they are limited to players on the same network, and may require a high-speed router or additional hardware to manage multiple connections.
+An Internet connection is the most common type of connection used for multiplayer gaming. It allows players to connect to game servers over the Internet and play with other players around the world. Internet connections are usually required for games with online multiplayer modes or MMO games. However, lag and connectivity issues may occur due to distance and internet traffic, and a stable and fast internet connection is required, which may not be available in all areas.
 
-A mobile network connection allows players to connect to game servers through their mobile devices, such as smartphones or tablets. Mobile network connections are best suited for gaming on-the-go. They offer mobility and a high-speed and stable connection in most urban areas. However, they are limited to data plans, which can be expensive or have limited data usage, and may not be suitable for gaming requiring precise timing or fast reactions.
+##### Local Network
 
-Bluetooth and Wi-Fi Direct connections allow players to connect to other devices directly without the need for an internet connection. These connections are suitable for connecting two devices in close proximity. They offer low latency and high-speed connection for devices connected through the same connection, and no need for an internet connection or mobile data plan. However, they are limited to players in close proximity and may require devices to be connected manually, which can be time-consuming.
+A local network connection allows players to connect to other devices on the same network, such as other players in the same household or LAN party. Local network connections are ideal for local multiplayer games. They offer low latency and high-speed connection for most devices connected to the same network. However, they are limited to players on the same network.
 
-In conclusion, the best type of connection for online gaming depends on several factors, including the type of game, the player's location, and the player's device. Internet connections are best suited for online multiplayer games with players around the world, while local network connections are ideal for local multiplayer games. Mobile network connections are best for gaming on-the-go, while Bluetooth or Wi-Fi Direct connections are suitable for connecting two devices in close proximity.
+##### Mobile Network
 
--=-=-=-=-
+A mobile network connection allows players to connect to the Internet through their cellular data, on devices such as smartphones or tablets. Mobile network connections are best suited for gaming on-the-go. They offer mobility and a high-speed and stable connection in most urban areas. However, they are limited to data plans, which can be expensive or have limited data usage, and may not be suitable for gaming requiring precise timing or fast reactions. Also, not all areas have signal, and some materials are especially good at blocking data frequencies - you could be playing great one moment, then you turn a corner and lose connection.
+
+##### Bluetooth and Wi-Fi Direct
+
+Bluetooth and Wi-Fi Direct connections allow players to connect to other devices directly without the need for an internet connection. These connections are suitable for connecting two devices in close proximity. They offer low latency and high-speed connection for devices connected through the same connection, and no need for an internet connection or mobile data plan. However, they are limited to players in close proximity and may require devices to be paired manually, which can be time-consuming and frustrating. These methods, however, are fairly rare in gaming scenarios.
 
 ### Software Options
 
