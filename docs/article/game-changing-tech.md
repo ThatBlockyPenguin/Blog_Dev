@@ -553,8 +553,6 @@ Input devices are essential in gaming since they allow players to interact with 
    - Virtual reality games and experiences.
    - In conclusion, the best input device for gaming depends on the type of game being played. Each input device has its strengths and weaknesses, and players should choose the one that best suits their playing style and the type of game they are playing.
 
--=-=-=-=-
-
 #### Connections
 
 When it comes to multiplayer gaming, the sort of connection you use can have a huge influence on your gaming experience. There are numerous sorts of connections available, each with its own set of advantages and disadvantages.
@@ -577,15 +575,41 @@ Bluetooth and Wi-Fi Direct connections allow players to connect to other devices
 
 ### Software Options
 
-operating system
+#### Operating System (OS)
 
-programming language
+- Windows:
+  
+  Windows is by far the most widely used operating system for gaming, {% include refpointer.html ref=52 %} and with good reason - it has many gaming-focussed features. These are:
 
-drivers
+  - DirectX 12, the latest version of Microsoft's DirectX API, which is what games use to communicate with your computer. DirectX 12 introduces several new capabilities and benefits, including the ability for graphics cards to utilise more than one CPU core at the same time. This means, basically, that Windows optimises the system resources available to games in order to make them operate more efficiently. This may come in especially helpful in scenarios where a slight delay between processing and rendering on-screen might mean the difference between a battle won or lost. {% include refpointer.html ref=53 %}
 
-graphics (directx, opengl)
+  - The Game Bar, which enables you to record game clips or take screenshots from a game you are playing. All you have to do is hit Windows + G, and the Game Bar pops up from which you can easily post your clip on to YouTube or other social networks. The Game Bar also allows you to monitor your PC's performance, change your volume settings, and chat with your friends on Xbox social. {% include refpointer.html ref=53 %}
 
-audio options (music, ambiance, format)
+  - Xbox controller support, allowing PC gamers to experience the ergonomic controls previously reserved for console gamers. Windows supports Xbox Wireless, USB, and Bluetooth connections. {% include refpointer.html ref=53 %} {% include refpointer.html ref=54 %}
+
+- Mac OS:
+  
+  Mac OS is not as popular as Windows for gaming, probably due to the library of games available for the Mac being significantly smaller than that on Windows. However, with the update to macOS Ventura, the gaming scene may be changing for the Mac. {% include refpointer.html ref=55 %}
+
+  - Apple's introduction of Metal 3 is expected to be one of the most significant developments. Metal, Apple's graphics engine, allows programmers to fully utilise a Mac's GPU. The third-generation release should see substantial advancements in video game visuals.
+
+  - Game Center, the gaming social hub for Apple devices, has received an update for the Mac. A new visible activity feed has been added, allowing you to keep track of what your friends are playing and what accomplishments they have unlocked. In addition to this, Game Center will keep you up-to-date with the latest happenings in Apple Arcade, display leaderboards for your friends, and showcase any achievements you have unlocked.
+
+- Linux:
+  
+  Linux is a free and open-source operating system that has been gaining popularity in recent years. It is known for being extremely stable and secure, which makes it ideal for gaming. Linux also has a smaller footprint than other operating systems, which means it can run on older machines with lower specs. However, Linux does not have as large a library of games as Windows or Mac OS, and it can be more difficult to set up and configure for gaming. Additionally, not all games are compatible with Linux, so gamers may have to use emulators or other workarounds to play their favorite titles.
+
+In summary, Windows is the most widely used operating system for gaming, with the largest library of games and the most optimized drivers for gaming hardware. Mac OS is known for its stability and intuitive design, but has a smaller library of games. Linux is extremely stable and secure, but has a smaller library of games and can be more difficult to set up for gaming.
+
+#### Programming Language
+
+#### Drivers
+
+#### Graphics
+
+#### Audio
+
+---
 
 ### Game Engines
 
@@ -652,3 +676,7 @@ animatio
 49. {% include reference.html link="https://pcpartpicker.com/product/DyhFf7/western-digital-black-sn850x-1-tb-m2-2280-nvme-solid-state-drive-wds100t2x0e" title="Western Digital Black SN850X 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive" %}
 50. {% include reference.html link="https://pcpartpicker.com/product/yGTp99/sk-hynix-platinum-p41-2-tb-m2-2280-nvme-solid-state-drive-shpp41-2000gm-2" title="SK Hynix Platinum P41 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive" %}
 51. {% include reference.html link="https://pcpartpicker.com/product/wXJgXL/seagate-firecuda-530-2-tb-m2-2280-nvme-solid-state-drive-zp2000gm3a013" title="Seagate FireCuda 530 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive" %}
+52. {% include reference.html link="https://www.statista.com/statistics/265033/proportion-of-operating-systems-used-on-the-online-gaming-platform-steam/" title="Steam users operating systems used 2023 | Statista" %}
+53. {% include reference.html link="https://www.ebuyer.com/blog/2019/12/the-benefits-of-gaming-on-windows-10/" title="The Benefits of Gaming on Windows 10" %}
+54. {% include reference.html link="https://support.xbox.com/en-GB/help/hardware-network/controller/connect-xbox-wireless-controller-to-pc" title="Connect an Xbox Wireless Controller to a Windows device | Xbox Support" %}
+55. {% include reference.html link="https://appleinsider.com/articles/22/07/01/how-gaming-on-the-mac-is-getting-better-with-macos-ventura" title="How gaming on the Mac is getting better with macOS Ventura" %}
