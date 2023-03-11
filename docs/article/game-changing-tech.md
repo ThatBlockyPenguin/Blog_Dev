@@ -498,6 +498,9 @@ Input devices are essential in gaming since they allow players to interact with 
    - Multiplayer online battle arena (MOBA) games.
 
 2. Gamepad:
+   
+   {% include sideimg.html url="https://assets.xboxservices.com/assets/55/83/55836945-e141-4d47-9dad-21d902948816.jpg?n=111101_Gallery-0_1_1350x759.jpg" src="https://www.xbox.com/en-GB/accessories/controllers/xbox-wireless-controller" credit="Xbox" desc="An Xbox controller" %}
+   
    Gamepads are the most popular console input device, offering gamers a compact and ergonomic control system.
 
    Pros:
