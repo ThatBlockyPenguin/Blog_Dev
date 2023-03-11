@@ -617,15 +617,73 @@ Bluetooth and Wi-Fi Direct connections allow players to connect to other devices
 
 Programming languages are instruction sets designed for humans to write and computers to execute. They are used to create software applications, websites, and other computer programs, including games. Code written in these languages make up every part of a game that isn't a resource (something like a texture or sound file). In this section, we will explore some of the most commonly used programming languages in the gaming industry, including their pros and cons.
 
-- C++
+- C++ {% include refpointer.html id=56 %}
 
-  | Pros:                                     | Cons:                              |
-  | :---------------------------------------: | :--------------------------------: |
-  | + Supported by Unreal Game Engine         |                                    |
-  | + Large online community/open-source code | + Difficult for beginners to learn |
-  | + Cross-platform language                 |                                    |
+  | Pros:                                   | Cons:                                   |
+  | --------------------------------------- | --------------------------------------- |
+  | Supported by Unreal Game Engine         | Developers must manage memory manually  |
+  | Large online community/open-source code | Difficult for beginners to learn        |
+  | Cross-platform language                 |                                         |
+  | High performance and versatile          |                                         |
+  | Offers low-level control over hardware  |                                         |
+
+  Popular games made with C++:
+
+  - Minecraft: Bedrock Edition
+  - World of Warcraft
+  - League of Legends
+
+- C# {% include refpointer.html id=56 %}
+
+  | Pros:                                       | Cons:                                                             |
+  | ------------------------------------------- | ----------------------------------------------------------------- |
+  | Seamless integration with Visual Studio     | Developers must manage memory manually                            |
+  | Fast and efficient                          | Moderately difficult to learn {% include refpointer.html id=57 %} |
+  | Compatibility with the popular Unity Engine |                                                                   |
+  | Uses the .NET framework                     |                                                                   |
+  | Multi-paradigm                              |                                                                   |
+
+  Popular games made with C#:
+
+  - Pokémon Go
+  - Cuphead
+  - Stardew Valley
+
+- JavaScript {% include refpointer.html id=56 %}
+  
+  | Pros:                                   | Cons:                                   |
+  | --------------------------------------- | --------------------------------------- |
+  | Easy to learn and use                   | Mostly for web-based games              |
+  | Plenty of libraries/frameworks          | Being interpreted affects performance   |
+  | Ideal for browser-based games           | Dynamic Typing                          |
+  | High-level                              | Lots of unusual quirks                  |
+  | Straightforward syntax                  |                                         |
+
+  Popular games made with JavaScript:
+
+  - Little Alchemy
+  - 2048
+  - Box Critters
+
+- Java
+  
+  | Pros:                                           | Cons:                                          |
+  | ----------------------------------------------- | ---------------------------------------------- |
+  | Popular for Android game development            | Limited access to low-level hardware           |
+  | JVM allows for cross-platform use               | Compiled executables can have large file sizes |
+  | Large amount of community libraries and tooling |                                                |
+
+  Popular games made with Java:
+
+  - Minecraft: Java Edition
+  - Runescape
+  - Mission Impossible III
+
+Each language has its own strengths and weaknesses, and the choice of language depends on the specific requirements of the game being developed. C++ is a popular choice for high-performance games, while Java is well-suited for mobile game development and cross-platform support. HTML5/JavaScript is a good choice for browser-based games. Ultimately, the choice of programming language should be based on the requirements of the game and the expertise of the development team.
 
 #### Drivers
+
+
 
 #### Graphics
 
@@ -702,3 +760,5 @@ animatio
 53. {% include reference.html link="https://www.ebuyer.com/blog/2019/12/the-benefits-of-gaming-on-windows-10/" title="The Benefits of Gaming on Windows 10" %}
 54. {% include reference.html link="https://support.xbox.com/en-GB/help/hardware-network/controller/connect-xbox-wireless-controller-to-pc" title="Connect an Xbox Wireless Controller to a Windows device | Xbox Support" %}
 55. {% include reference.html link="https://appleinsider.com/articles/22/07/01/how-gaming-on-the-mac-is-getting-better-with-macos-ventura" title="How gaming on the Mac is getting better with macOS Ventura" %}
+56. {% include reference.html link="https://hackr.io/blog/best-programming-language-for-games" title="7 Best Programming Languages for Game Development in 2023" %}
+57. {% include reference.html link="https://www.codeguru.com/csharp/c-sharp-disadvantages/" title="Disadvantages of C# | CodeGuru.com" %}
