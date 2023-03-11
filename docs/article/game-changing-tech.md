@@ -581,7 +581,7 @@ Bluetooth and Wi-Fi Direct connections allow players to connect to other devices
   
   Windows is by far the most widely used operating system for gaming, {% include refpointer.html id=52 %} and with good reason - it has many gaming-focussed features. These are:
 
-  - DirectX 12, the latest version of Microsoft's DirectX API, which is what games use to communicate with your computer. DirectX 12 introduces several new capabilities and benefits, including the ability for graphics cards to utilise more than one CPU core at the same time. This means, basically, that Windows optimises the system resources available to games in order to make them operate more efficiently. This may come in especially helpful in scenarios where a slight delay between processing and rendering on-screen might mean the difference between a battle won or lost. {% include refpointer.html id=53 %}
+  - DirectX 12, the latest version of Microsoft's DirectX API, which is what games use to communicate with your computer. DirectX 12 introduces several new capabilities and benefits, including the ability for graphics cards to utilise more than one CPU core at the same time. This means, basically, that Windows optimises the system resources available to games in order to make them operate more efficiently. This may come in especially helpful in scenarios where a slight delay between processing and rendering on-screen might mean the difference between a battle won or lost. {% include refpointer.html id=53 %} I'll go more in-depth on DirectX [later](#graphics).
 
   - The Game Bar, which enables you to record game clips or take screenshots from a game you are playing. All you have to do is hit Windows + G, and the Game Bar pops up from which you can easily post your clip on to YouTube or other social networks. The Game Bar also allows you to monitor your PC's performance, change your volume settings, and chat with your friends on Xbox social. {% include refpointer.html id=53 %}
 
@@ -683,9 +683,21 @@ Each language has its own strengths and weaknesses, and the choice of language d
 
 #### Drivers
 
+Drivers are pieces of software that allow other pieces of software to communicate with specific hardware - either internal components or external devices.
 
+Let's take the example of a game controller. In order for the game to receive input from the controller, a device driver is needed to enable communication between the controller and the game.
+
+  The device driver for a game controller typically communicates with the controller's hardware, translating the signals sent by the buttons and joysticks into a format that the game can understand. This allows the game to recognize which buttons are being pressed and how the joysticks are being moved, and to respond accordingly.
+
+Without a device driver, the game would not be able to communicate with the game controller, and the player would not be able to use the controller to play the game.
+
+Device drivers for game controllers are often included with the operating system or are installed automatically when the controller is connected to the computer. However, in some cases, a specific device driver may need to be downloaded and installed manually in order for the controller to work properly with a particular game or operating system.
+
+You can also get drivers for things like mice, keyboards, GPUs, and speakers/sound cards.
 
 #### Graphics
+
+
 
 #### Audio
 
