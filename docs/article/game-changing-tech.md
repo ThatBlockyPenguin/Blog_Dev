@@ -713,19 +713,58 @@ So, graphics libraries provide game developers with a standardised way to access
 
 #### Audio
 
----
+When it comes to gaming, audio can be just as important as graphics. Whether you're playing a first-person shooter or a role-playing game, the right audio can enhance your experience and make you feel more immersed in the game world.
+
+##### Music
+
+Music is one of the most important audio options in gaming. It can set the mood for a game and help create a sense of atmosphere. Some games have original soundtracks that are specifically designed to complement the gameplay, while others licence existing music.
+
+In-game music can also be used to give players important cues or signals. For example, a change in music might indicate that the player is approaching a boss battle or that they've completed a level. Players can also choose to play their own music in the background while gaming, or have none entirely (by muting the game's music).
+
+##### Ambiance
+
+Ambient sound effects are another important audio option in gaming. They can add a sense of realism to the game world and make players feel like they're really there. Ambient sound effects can include things like footsteps, weather effects, and background chatter.
+
+In some games, ambient sound effects can also be used to give players important clues or hints. For example, a change in ambient sound might indicate that the player is near a hidden item or that an enemy is approaching.
+
+##### File Format
+
+Finally, it's important to consider the file format of your gaming audio. Different file formats can have different levels of quality and compression, which can affect the overall audio experience. Some common audio file formats for gaming include MP3, OGG, WAV, and FLAC.
+
+MP3 files are the most widely used audio format and are generally considered to be of decent quality. However, there may be potential licensing issues with using MP3 files in games, as it is a patented format. OGG files, on the other hand, are a free and open source alternative to MP3 that offer similar quality and compression. WAV files are uncompressed, which means they offer the highest quality audio, but they can also take up a lot of storage space. FLAC files offer a good balance between quality and storage space, making them a popular choice for gaming.
 
 ### Game Engines
 
-rendering engines
+#### Rendering Engines
 
-physics engines
+#### Physics Engines
 
-collision detection
+#### Collision Detection
 
-scripting
+#### Scripting
 
-animatio
+#### Animation
+
+### New Technology in Game Development
+
+#### Artificial Intelligence
+
+#### Virtual Reality
+
+#### Augmented Reality
+
+#### Cloud gaming
+
+### The Impact of Emerging Technologies on Games Development
+
+- Provide examples with supporting images to show the impact on the games industry e.g. development of graphics cards, ray tracing, 3D game rendering etc.  
+- Provide examples with supporting images to show the impact on the users e.g. smartphone tech, consoles as entertainment centres etc.
+- Include images of games/gameplay to show the impact of the technologies 
+- Bring the tech part of M1 in to this
+
+### The Impact of User Needs on Games Development
+
+- M1
 
 ## References:
 
