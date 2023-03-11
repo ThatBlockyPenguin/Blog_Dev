@@ -597,9 +597,21 @@ Bluetooth and Wi-Fi Direct connections allow players to connect to other devices
 
 - Linux:
   
-  Linux is a free and open-source operating system that has been gaining popularity in recent years. It is known for being extremely stable and secure, which makes it ideal for gaming. Linux also has a smaller footprint than other operating systems, which means it can run on older machines with lower specs. However, Linux does not have as large a library of games as Windows or Mac OS, and it can be more difficult to set up and configure for gaming. Additionally, not all games are compatible with Linux, so gamers may have to use emulators or other workarounds to play their favorite titles.
+  While Linux has grown in popularity among gamers, it is still regarded as a niche platform due to its rather steep learning curve and limited game support when compared to Windows.
+  
+  - Emulation software such as Wine and Proton can allow Linux users to play many Windows games on their devices.
 
-In summary, Windows is the most widely used operating system for gaming, with the largest library of games and the most optimized drivers for gaming hardware. Mac OS is known for its stability and intuitive design, but has a smaller library of games. Linux is extremely stable and secure, but has a smaller library of games and can be more difficult to set up for gaming.
+  - Microsoft has made attempts in recent years to introduce its previously mentioned DirectX API to Linux. This innovation has the potential to increase game performance on Linux while also encouraging more game creators to support the platform.
+
+  - Valve has also created SteamOS, a Linux-based game operating system, and the Steam Deck, a portable gaming device that runs a modified version of SteamOS. These advances have boosted interest in Linux as a viable gaming platform, which may lead to further game support in the future.
+
+  Performance: Linux is known for its excellent performance, which can lead to smoother gameplay and faster load times.
+
+  - Many popular game engines, such as Unity and Unreal Engine, have added Linux support, making it easier for developers to create games that run on the platform.
+
+  - Linux is highly customizable, allowing gamers to tweak and optimize their systems for the best possible gaming experience.
+
+  - Linux is free and open-source, which means that gamers don't have to pay for expensive operating systems or software licenses.
 
 #### Programming Language
 
