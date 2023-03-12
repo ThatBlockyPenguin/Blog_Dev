@@ -3,4 +3,4 @@ name: BlockyPenguin's Blog
 description: Official Blog of BlockyPenguin!
 lang: en-GB
 markdown: kramdown
-footnote_backlink: &#8617;&#xfe0e;
+footnote_backlink: "&#8617;&#xfe0e;"
