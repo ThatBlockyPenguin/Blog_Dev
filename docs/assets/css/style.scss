@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+* {
+  box-sizing: border-box;
+}
+
 table.sideimg {
   display: inline;
   float: right;
@@ -33,13 +37,19 @@ td > ul {
 
 @keyframes target-fade {
   0% {
+    box-sizing: content-box;
     border-radius: 5px;
     border: 5px solid #ddd;
     background-color: #eee;
   }
 
-  100% {
+  99% {
+    box-sizing: content-box;
     border: 5 solid transparent;
     background-color: transparent;
+  }
+
+  100% {
+    box-sizing: border-box;
   }
 }
