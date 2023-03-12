@@ -735,17 +735,31 @@ MP3 files are the most widely used audio format and are generally considered to 
 
 ### Game Engines
 
-
+A game engine is a type of software development environment that is specifically designed for creating video games. A game engine may include 1 2D or 3D graphics rendering engine, a physics engine that simulates real-world physics, artificial intelligence that automatically responds to the player's actions, a sound engine, an animation engine, and a bunch of other features. [^60]
 
 #### Rendering Engines
 
+Rendering engines are responsible for generating graphics and rendering them on the screen. They are designed to take raw models, textures, and lighting information and transform them into a 2D image that can be displayed on a screen. Game engines use advanced rendering techniques such as dynamic lighting, reflections, and shadows to create realistic and immersive environments that can be explored by players.
+
 #### Physics Engines
+
+Physics engines are used to simulate the physical behaviour of objects in a game world. They are responsible for calculating and applying the forces that affect objects, such as gravity, friction, and collisions. This allows developers to create realistic simulations of real-world phenomena, such as the movement of water or the behaviour of a car on a bumpy road.
 
 #### Collision Detection
 
+Collision detection is a critical component of game development, as it determines when two objects collide and what happens when they do. Game engines use complex algorithms to detect collisions between objects and calculate their resulting behaviour, such as bouncing off each other or exploding. This allows developers to create realistic and engaging gameplay mechanics that are based on physical interactions between objects.
+
 #### Scripting
 
+Scripting is a powerful tool used by game developers to control the behaviour of objects in a game world. Game engines allow developers to create custom scripts using languages such as C# or GDScript, which can be used to control the movement, behaviour, and interactions of objects in the game world. This allows developers to create complex gameplay mechanics and AI systems that can react to player input and provide a challenging and engaging experience.
+
 #### Animation
+
+Animation is another critical component of game development, as it brings characters and objects to life and adds a sense of realism to the game world. Game engines use advanced animation systems that allow developers to create complex animations for characters and objects, such as walking, running, and jumping. These animations can be triggered by player input or programmed to occur automatically, depending on the game's design.
+
+---
+
+The process of creating a video game from scratch takes time and is difficult. It involves a lot of trial and error, strong programming abilities, and specific game development expertise. As many of the underlying systems shared by games of various types have already been developed by others (such as graphics rendering, physics simulation, and input processing), leveraging them may help creators save a lot of time and money. Game engines are a simple way of doing this.
 
 ### New Technology in Game Development
 
@@ -829,3 +843,4 @@ MP3 files are the most widely used audio format and are generally considered to 
 [^57]: <a href="https://www.codeguru.com/csharp/c-sharp-disadvantages/" target="_blank">Disadvantages of C# | CodeGuru.com</a>
 [^58]: <a href="https://www.windowscentral.com/what-directx-why-does-matter-gaming" target="_blank">What is DirectX, and why does it matter for gaming?</a>
 [^59]: <a href="https://techterms.com/definition/opengl" target="_blank">OpenGL Definition</a>
+[^60]: <a href="https://www.arm.com/glossary/gaming-engines" target="_blank">What is a Gaming Engine? – Arm®</a>
