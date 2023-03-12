@@ -25,3 +25,7 @@ table.sideimg {
 td > ul {
   padding-left: 1em !important;
 }
+
+:has(:target) {
+  background-color: green;
+}
