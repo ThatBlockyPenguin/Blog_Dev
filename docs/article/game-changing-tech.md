@@ -767,7 +767,7 @@ There are various modern technologies that are emerging in the gaming scene, and
 
 The recent and massive strides forward in AI, with new models like ChatGPT, could mean the beginning of a whole new era for gaming. [^61]
 
-Typically, in games, what is referred to as "AI" is actually nothing more than a highly complex algorithm. If we take the example of a Minecraft sheep and [look at its code](https://fabricmc.net/wiki/tutorial:reading_mc_code), we can see that it has eight main "AI goals", each with a higher priority than the last. These are:
+Typically, in games, what is referred to as "AI" is actually nothing more than a highly complex algorithm. If we take the example of a Minecraft sheep and [look at its code](https://fabricmc.net/wiki/tutorial:reading_mc_code){: target="_blank" }, we can see that it has eight main "AI goals", each with a higher priority than the last. These are:
 
 - SwimGoal
 - EscapeDangerGoal
