@@ -36,7 +36,7 @@ sup > a.footnote::after {
   content: ']';
 }
 
-:target {
+:target:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) {
   animation: target-fade 2s forwards;
 }
 
