@@ -26,7 +26,7 @@ td > ul {
   padding-left: 1em !important;
 }
 
-:has(> :target) {
+:target {
   animation: target-fade 1s forwards;
 }
 
@@ -39,8 +39,7 @@ td > ul {
   }
 
   100% {
-    border-radius: revert;
-    border: revert;
-    background-color: revert;
+    border: none;
+    background-color: initial;
   }
 }
