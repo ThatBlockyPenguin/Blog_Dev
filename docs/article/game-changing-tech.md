@@ -795,7 +795,7 @@ Unfortunately, as well as these benefits, VR has numerous potential drawbacks. O
 
 #### Augmented Reality
 
-{% include sideimg.html url="https://media.wired.com/photos/5dc9b5efdea30b00096c6cd0/master/w_2560%2Cc_limit/Cul-minecraft-MCE_MAG_Cover_01.jpg" src="https://www.wired.com/story/minecraft-earth-america-launch/" credit="WIRED" desc="Minecraft Earth, an AR game" %}
+{% include large-sideimg.html url="https://media.wired.com/photos/5dc9b5efdea30b00096c6cd0/master/w_2560%2Cc_limit/Cul-minecraft-MCE_MAG_Cover_01.jpg" src="https://www.wired.com/story/minecraft-earth-america-launch/" credit="WIRED" desc="Minecraft Earth, an AR game" %}
 
 Augmented reality (AR) gets its name from the fact that it augments the real world with a computer-generated visual overlay to improve the user's experience.
 
