@@ -199,7 +199,7 @@ Overall, integrated services and multiplayer environments are essential componen
 
 With the inclusion of such services, game developers have had to put systems in place that ensure a fair and welcoming space for everyone. This may be by creating filters that prevent certain words from appearing in messages, by implementing a banning feature that allows repeat offenders to be removed from the platform, and so on.
 
-There are also new security risks being exposed by computer games. A report by SecurityHQ states that “there has been a monumental surge in targeted cyber-attacks against the gaming sector, with a 167% increase in web application attacks in 2021 alone”. Of course, as the industry grows, the motivation for a successful attack grows with it. [^27]
+There are also new security risks being exposed by computer games. A report by SecurityHQ states that _"there has been a monumental surge in targeted cyber-attacks against the gaming sector, with a 167% increase in web application attacks in 2021 alone"_. Of course, as the industry grows, the motivation for a successful attack grows with it. [^27]
 
 A recent example is _Minecraft_ and the Log4Shell vulnerability. Log4Shell was discovered by Chen Zhaojun of the Alibaba Cloud Security Team, and is the name given to a zero-day vulnerability in Log4j, a popular logging framework for the Java programming language. _Minecraft: Java Edition_ is developed in the Java programming language, and uses Log4j, and as such, was affected by this vulnerability. [^28] [^29]
 
@@ -761,13 +761,41 @@ The process of creating a video game from scratch takes time and is difficult. I
 
 ### New Technology in Game Development
 
-There are various modern technologies that are emerging in the gaming 
+There are various modern technologies that are emerging in the gaming scene, and they have the potential to revolutionise the way that people play video games.
 
 #### Artificial Intelligence
 
+The recent and massive strides forward in AI, with new models like ChatGPT, could mean the beginning of a whole new era for gaming. [^61]
+
+Typically, in games, what is referred to as "AI" is actually nothing more than a highly complex algorithm. If we take the example of a Minecraft sheep and [look at its code](https://fabricmc.net/wiki/tutorial:reading_mc_code), we can see that it has eight main "AI goals", each with a higher priority than the last. These are:
+
+- SwimGoal
+- EscapeDangerGoal
+- AnimalMateGoal
+- TemptGoal
+- FollowParentGoal
+- EatGrassGoal
+- WanderAroundFarGoal
+- LookAtEntityGoal (the code specifies looking at players)
+- LookAroundGoal
+
+The functions of each of these goals are quite clear - the sheep is most likely to just look around, but if a player is nearby, it may look at them. It may also wander around and eat grass, follow its parent (if it is a baby), get tempted by players holding wheat, mate with other sheep, run away if hurt, or swim. There is no real AI going on here. This could, however, be about to change.
+
+The writer of [this article](https://www.forbes.com/sites/paultassi/2023/02/16/chatgpt-is-coming-to-video-games-god-help-us-all/) [^61] asks: _"What if instead of a list of pre-programmed responses and limited interactions, you could chat with NPCs in a video game and have an actual, unpredictable conversation?"_ It's a very interesting question. Image playing a game where you could interact with characters in a way unheard of before, and effectively write your own story! [^61]
+
+There are concerns however, about whether or not AIs _should_ be allowed an unrestricted voice in games, as there have been many occasions where AI has been tricked into saying things it was never intended to. [^61]
+
 #### Virtual Reality
 
+Virtual reality is a computer-generated environment that allows people to interact with a simulated three-dimensional world, typically with the use of special equipment such as helmets or goggles. The more immersive the VR experience, the easier it is for someone to suspend their disbelief and accept the virtual environment as "real". VR is classified into three types based on this: non-immersive, semi-immersive, and fully immersive. Although virtual reality has grown in popularity in the gaming industry, it also has applications in education, training, healthcare, retail, real estate, and entertainment. [^62]
+
+One of the most significant benefits of virtual reality is its ability to reproduce circumstances that are difficult, expensive, or dangerous to do so in real life. VR may be used to train people in high-risk or specialised positions, such as firefighters, police officers, or surgeons. It can provide students with immersive interactions in historical or scientific situations that might otherwise be inaccessible to them. It also has promise in the treatment of mental health conditions such as PTSD and anxiety, as well as in providing doctors with novel ways to communicate diagnostic or treatment options. [^62]
+
+Unfortunately, as well as these benefits, VR has numerous potential drawbacks. One of the major issues is that people may become motion sick or uncomfortable while in the virtual environment. Additionally, there is a risk of addiction to VR experiences, which might lead to negative effects such as social isolation or neglect of real-life responsibilities. There are also ethical concerns regarding using virtual reality in violent or harmful environments, since it may desensitise users to real-life violence or encourage unethical behaviour. [^62]
+
 #### Augmented Reality
+
+[^63]
 
 #### Cloud gaming
 
@@ -844,3 +872,6 @@ There are various modern technologies that are emerging in the gaming
 [^58]: <a href="https://www.windowscentral.com/what-directx-why-does-matter-gaming" target="_blank">What is DirectX, and why does it matter for gaming?</a>
 [^59]: <a href="https://techterms.com/definition/opengl" target="_blank">OpenGL Definition</a>
 [^60]: <a href="https://www.arm.com/glossary/gaming-engines" target="_blank">What is a Gaming Engine? – Arm®</a>
+[^61]: <a href="https://www.forbes.com/sites/paultassi/2023/02/16/chatgpt-is-coming-to-video-games-god-help-us-all" target="_blank">ChatGPT Is Coming To Video Games God Help Us All</a>
+[^62]: <a href="https://www.techtarget.com/whatis/definition/virtual-reality" target="_blank">What is virtual reality?</a>
+[^63]: <a href="https://www.investopedia.com/terms/a/augmented-reality.asp" target="_blank">Augmented Reality (AR) Defined, with Examples and Uses</a>
