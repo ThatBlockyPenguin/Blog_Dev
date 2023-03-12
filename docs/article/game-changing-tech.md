@@ -755,13 +755,13 @@ Scripting is a powerful tool used by game developers to control the behaviour of
 
 #### Animation
 
-Animation is another critical component of game development, as it brings characters and objects to life and adds a sense of realism to the game world. Game engines use advanced animation systems that allow developers to create complex animations for characters and objects, such as walking, running, and jumping. These animations can be triggered by player input or programmed to occur automatically, depending on the game's design.
-
----
+Animation is another important aspect of game development, which gives people, objects, and the environment a realistic feel. Advanced animation algorithms used by game engines enable developers to generate intricate movements for characters and objects, including walking, sprinting, and leaping. Depending on how the game is designed, these animations may be set to happen automatically or in response to user interaction.
 
 The process of creating a video game from scratch takes time and is difficult. It involves a lot of trial and error, strong programming abilities, and specific game development expertise. As many of the underlying systems shared by games of various types have already been developed by others (such as graphics rendering, physics simulation, and input processing), leveraging them may help creators save a lot of time and money. Game engines are a simple way of doing this.
 
 ### New Technology in Game Development
+
+There are various modern technologies that are emerging in the gaming 
 
 #### Artificial Intelligence
 
