@@ -793,17 +793,17 @@ One of the most significant benefits of virtual reality is its ability to reprod
 
 Unfortunately, as well as these benefits, VR has numerous potential drawbacks. One of the major issues is that people may become motion sick or uncomfortable while in the virtual environment. Additionally, there is a risk of addiction to VR experiences, which might lead to negative effects such as social isolation or neglect of real-life responsibilities. There are also ethical concerns regarding using virtual reality in violent or harmful environments, since it may desensitise users to real-life violence or encourage unethical behaviour. [^62]
 
-#### Augmented Reality
+#### Augmented Reality (rewrite needed)
 
 {% include large-sideimg.html url="https://media.wired.com/photos/5dc9b5efdea30b00096c6cd0/master/w_2560%2Cc_limit/Cul-minecraft-MCE_MAG_Cover_01.jpg" src="https://www.wired.com/story/minecraft-earth-america-launch/" credit="WIRED" desc="Minecraft Earth, an AR game" %}
 
-Augmented reality (AR) gets its name from the fact that it augments the real world with a computer-generated visual overlay to improve the user's experience.
+Augmented reality (AR) gets its name from the fact that it augments the real world with a computer-generated visual overlay to improve the user's experience. Augmented reality is gaining popularity in computing for both business and gaming. In contrast to virtual reality, augmented reality adds digital renderings to the present environment, instead of creating a whole new scene from scratch. [^63]
 
----
+Wearable technology has long been seen as a possible game changer for augmented reality. While cameras in tablets and smartphones only provide a limited perspective of the user's surroundings, smart eyewear, if it were to become mainstream, has the potential to more comprehensively merge the real and digital worlds, providing a massive immersion boost for AR games. [^63]
 
-Augmented reality is gaining popularity in both corporate and mobile computing. In contrast to virtual reality (VR), augmented reality (AR) improves the present environment. Retailers and other businesses use this technology to sell their products and services, develop new marketing techniques, and collect customer data.
+AR technology enables the display a whole virtual world on top of the user's existing real-world surroundings. The popular game Pokémon Go is an example of this, since it allows users to search for animated characters in their neighbourhoods. American National Football League broadcasters use augmented reality technology to analyse plays in more detail. [^63]
 
-[^63]
+Despite its benefits, like VR, AR has a number of disadvantages. One is that some users may find it disorientating, especially if the virtual and real worlds are not properly aligned, or if there is noticeable lag between the movement of the camera and the digital rendering. [^63]
 
 #### Cloud gaming
 
