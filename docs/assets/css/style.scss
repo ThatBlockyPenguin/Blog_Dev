@@ -27,7 +27,7 @@ td > ul {
 }
 
 :target {
-  animation: target-fade 1s forwards;
+  animation: target-fade 2s forwards;
 }
 
 
@@ -39,7 +39,7 @@ td > ul {
   }
 
   100% {
-    border: none;
-    background-color: initial;
+    border: 5 solid transparent;
+    background-color: transparent;
   }
 }
