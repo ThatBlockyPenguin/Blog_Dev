@@ -27,5 +27,20 @@ td > ul {
 }
 
 :has(> :target) {
-  background-color: green;
+  animation: target-fade 1s forwards;
+}
+
+
+@keyframes target-fade {
+  0% {
+    border-radius: 5px;
+    border: 5px solid #ddd;
+    background-color: #eee;
+  }
+
+  100% {
+    border-radius: revert;
+    border: revert;
+    background-color: revert;
+  }
 }
