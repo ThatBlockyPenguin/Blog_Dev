@@ -795,6 +795,14 @@ Unfortunately, as well as these benefits, VR has numerous potential drawbacks. O
 
 #### Augmented Reality
 
+{% include sideimg.html url="https://media.wired.com/photos/5dc9b5efdea30b00096c6cd0/master/w_2560%2Cc_limit/Cul-minecraft-MCE_MAG_Cover_01.jpg" src="https://www.wired.com/story/minecraft-earth-america-launch/" credit="WIRED" desc="Minecraft Earth, an AR game" %}
+
+Augmented reality (AR) gets its name from the fact that it augments the real world with a computer-generated visual overlay to improve the user's experience.
+
+---
+
+Augmented reality is gaining popularity in both corporate and mobile computing. In contrast to virtual reality (VR), augmented reality (AR) improves the present environment. Retailers and other businesses use this technology to sell their products and services, develop new marketing techniques, and collect customer data.
+
 [^63]
 
 #### Cloud gaming
