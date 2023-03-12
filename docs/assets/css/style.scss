@@ -26,16 +26,14 @@ td > ul {
   padding-left: 1em !important;
 }
 
-a.footnote {
-  ::before {
-    display: inline;
-    content: '[';
-  }
+sup > a.footnote::before {
+  display: inline;
+  content: '[';
+}
 
-  ::after {
-    display: inline;
-    content: ']';
-  }
+sup > a.footnote::after {
+  display: inline;
+  content: ']';
 }
 
 :target {
