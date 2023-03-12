@@ -5,4 +5,4 @@ lang: en-GB
 markdown: kramdown
 
 kramdown:
-  footnote_backlink: "back"
+  footnote_backlink: "⮥"
