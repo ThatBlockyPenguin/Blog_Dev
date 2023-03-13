@@ -43,9 +43,8 @@ sup > a.footnote {
   grid-template-rows: 1fr 1fr fit-content;
   gap: 0.5em;
   grid-template-areas:
-    "main main media1"
-    "media4 media4 media2"
-    "media4 media4 media3";
+    "main         media"
+    "bottom-media media";
 }
 
 .multimedia * {
@@ -53,10 +52,8 @@ sup > a.footnote {
   margin: none;
 }
 
-.multimedia > .side-media-1 { grid-area: media1; }
-.multimedia > .side-media-2 { grid-area: media2; }
-.multimedia > .side-media-3 { grid-area: media3; }
-.multimedia > .bottom-media { grid-area: media4; }
+.multimedia > .side-media { grid-area: media; }
+.multimedia > .bottom-media { grid-area: bottom-media; }
 .multimedia > .text { grid-area: main; }
 
 
