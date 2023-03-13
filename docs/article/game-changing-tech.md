@@ -793,7 +793,7 @@ One of the most significant benefits of virtual reality is its ability to reprod
 
 Unfortunately, as well as these benefits, VR has numerous potential drawbacks. One of the major issues is that people may become motion sick or uncomfortable while in the virtual environment. Additionally, there is a risk of addiction to VR experiences, which might lead to negative effects such as social isolation or neglect of real-life responsibilities. There are also ethical concerns regarding using virtual reality in violent or harmful environments, since it may desensitise users to real-life violence or encourage unethical behaviour. [^62]
 
-#### Augmented Reality (rewrite needed)
+#### Augmented Reality
 
 {% include large-sideimg.html url="https://media.wired.com/photos/5dc9b5efdea30b00096c6cd0/master/w_2560%2Cc_limit/Cul-minecraft-MCE_MAG_Cover_01.jpg" src="https://www.wired.com/story/minecraft-earth-america-launch/" credit="WIRED" desc="Minecraft Earth, an AR game" %}
 
@@ -823,6 +823,32 @@ Some cloud gaming services may need a paid membership for clients who already pa
 Developers may also have to design specific parts of the game to be optimised for streaming services - such as support for a wide variety of input and output systems that people may be using (as many streaming services can be accessed from any device using a web browser), or highly efficient input systems to reduce lag.
 
 ### The Impact of Emerging Technologies on Games Development
+
+Over the years, gaming technology has evolved greatly, we now have graphics cards with ray tracing, realistic 3D rendering, and powerful gaming consoles that put the previous generation of console to shame with their high specs, but how did we get here, and what sort of effect has this progression had on gaming?
+
+#### Graphics
+
+{% include sideimg.html url="https://i.postimg.cc/tJz4CRdw/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 1 of Portal with and without Ray Tracing" %}
+
+{% include sideimg.html url="https://i.postimg.cc/SssrGjR7/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 2 of Portal with and without Ray Tracing" %}
+
+{% include sideimg.html url="https://i.postimg.cc/tCSVhDPf/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 3 of Portal with and without Ray Tracing" %}
+
+One of the most obvious examples of how games have evolved over the years is in graphics. Games are now able to render incredibly realistic environments and characters, thanks to advances in GPUs and other rendering technology, such as DirectX, Vulkan, and OpenGL. [^64]
+
+A great example of innovators in the graphics area is Nvidia, bringing ray tracing to the mainstream with their dedicated RT Cores, specifically designed for ray tracing. On the right are a few images comparing the same screenshots of Valve's Portal, one without ray tracing and one with. The difference is astounding!
+
+How have games developers been affected by current and emerging technologies?
+Benefits and limitations of the current and emerging technologies on the development of computer games e.g.
+Increase in mobile gaming due to improved technologies
+Need for access to lower-cost AR glasses and better batteries
+Costs of developing games using VR and the take-up for these games
+Gamer interest/lack of interest in using AR due to lack of immersive experience etc.
+Benefits and limitations of different platform options for the development of computer games:
+personal computers, e.g. Windows®, Mac®
+consoles, e.g. PlayStation®, XboxTM, Nintendo®
+mobile devices, e.g. smartphones, tablets, notebooks
+web-based, e.g. Flash®, HTML5.
 
 - Provide examples with supporting images to show the impact on the games industry e.g. development of graphics cards, ray tracing, 3D game rendering etc.  
 - Provide examples with supporting images to show the impact on the users e.g. smartphone tech, consoles as entertainment centres etc.
@@ -898,3 +924,4 @@ Developers may also have to design specific parts of the game to be optimised fo
 [^61]: <a href="https://www.forbes.com/sites/paultassi/2023/02/16/chatgpt-is-coming-to-video-games-god-help-us-all" target="_blank">ChatGPT Is Coming To Video Games God Help Us All</a>
 [^62]: <a href="https://www.techtarget.com/whatis/definition/virtual-reality" target="_blank">What is virtual reality?</a>
 [^63]: <a href="https://www.investopedia.com/terms/a/augmented-reality.asp" target="_blank">Augmented Reality (AR) Defined, with Examples and Uses</a>
+[^64]: <a href="https://www.finsmes.com/2022/11/how-technology-is-changing-the-gaming-industry.html" target="_blank">How Technology is Changing the Gaming Industry</a>
