@@ -842,6 +842,7 @@ A great example of innovators in the graphics area is Nvidia, bringing ray traci
 
 {% include sideimg.html url="https://i.postimg.cc/tCSVhDPf/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 3 of Portal with and without Ray Tracing" %}
 </div>
+
 <div class="bottom-media" markdown="1">
 {% include img.html url="https://i.ytimg.com/vi/9qxfavtUs7w/maxresdefault.jpg" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9qxfavtUs7w%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9qxfavtUs7w&tbnid=0-xisAaRmpMsXM&vet=12ahUKEwi7_MPguNn9AhX2rycCHUpZAVMQMygBegUIARDGAQ..i&docid=MXfurPg4WO5-DM&w=1280&h=720" credit="Ray Tracing Revolution on YouTube" desc="Comparison of Minecraft with and without Ray Tracing"%}
 </div>
