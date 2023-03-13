@@ -41,14 +41,18 @@ sup > a.footnote {
   width: 100%;
   grid-template-columns: 1fr 1fr fit-content;
   grid-template-rows: 1fr 1fr fit-content;
-  gap: 0 0;
+  gap: 0.5em;
   grid-template-areas:
     "main main media1"
     "media4 media4 media2"
     "media4 media4 media3";
 }
 
-.multimedia * { width: 100% !important; }
+.multimedia * {
+  width: 100% !important;
+  margin: none;
+}
+
 .multimedia > .side-media-1 { grid-area: media1; }
 .multimedia > .side-media-2 { grid-area: media2; }
 .multimedia > .side-media-3 { grid-area: media3; }
