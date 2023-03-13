@@ -826,23 +826,25 @@ Developers may also have to design specific parts of the game to be optimised fo
 
 Over the years, gaming technology has evolved greatly, we now have graphics cards with ray tracing, realistic 3D rendering, and powerful gaming consoles that put the previous generation of console to shame with their high specs, but how did we get here, and what sort of effect has this progression had on gaming?
 
-<div class="multimedia">
-  <div class="text">
-    <h4>Graphics</h4>
+{% include multimedia-start.html %}
+{% include multimedia-text-start.html %}
+#### Graphics
 
-    One of the most obvious examples of how games have evolved over the years is in graphics. Games are now able to render incredibly realistic environments and characters, thanks to advances in GPUs and other rendering technology, such as DirectX, Vulkan, and OpenGL. [^64]
+One of the most obvious examples of how games have evolved over the years is in graphics. Games are now able to render incredibly realistic environments and characters, thanks to advances in GPUs and other rendering technology, such as DirectX, Vulkan, and OpenGL. [^64]
 
-    A great example of innovators in the graphics area is Nvidia, bringing ray tracing to the mainstream with their dedicated RT Cores, specifically designed for ray tracing. On the right are a few images comparing the same screenshots of Valve's Portal, one without ray tracing and one with. Below is an image showing the same for Minecraft. The difference is incredible!
-  </div>
+A great example of innovators in the graphics area is Nvidia, bringing ray tracing to the mainstream with their dedicated RT Cores, specifically designed for ray tracing. On the right are a few images comparing the same screenshots of Valve's Portal, one without ray tracing and one with. Below is an image showing the same for Minecraft. The difference is incredible!
 
-  {% include sideimg.html url="https://i.postimg.cc/tJz4CRdw/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 1 of Portal with and without Ray Tracing" class="side-media-1" %}
+{% include multimedia-any-end.html %}
 
-  {% include sideimg.html url="https://i.postimg.cc/SssrGjR7/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 2 of Portal with and without Ray Tracing" class="side-media-2" %}
+{% include sideimg.html url="https://i.postimg.cc/tJz4CRdw/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 1 of Portal with and without Ray Tracing" class="side-media-1" %}
 
-  {% include sideimg.html url="https://i.postimg.cc/tCSVhDPf/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 3 of Portal with and without Ray Tracing" class="side-media-3" %}
+{% include sideimg.html url="https://i.postimg.cc/SssrGjR7/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 2 of Portal with and without Ray Tracing" class="side-media-2" %}
 
-  {% include img.html url="https://i.ytimg.com/vi/9qxfavtUs7w/maxresdefault.jpg" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9qxfavtUs7w%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9qxfavtUs7w&tbnid=0-xisAaRmpMsXM&vet=12ahUKEwi7_MPguNn9AhX2rycCHUpZAVMQMygBegUIARDGAQ..i&docid=MXfurPg4WO5-DM&w=1280&h=720" credit="Ray Tracing Revolution on YouTube" desc="Comparison of Minecraft with and without Ray Tracing" class="bottom-media" %}
-</div>
+{% include sideimg.html url="https://i.postimg.cc/tCSVhDPf/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 3 of Portal with and without Ray Tracing" class="side-media-3" %}
+
+{% include img.html url="https://i.ytimg.com/vi/9qxfavtUs7w/maxresdefault.jpg" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9qxfavtUs7w%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9qxfavtUs7w&tbnid=0-xisAaRmpMsXM&vet=12ahUKEwi7_MPguNn9AhX2rycCHUpZAVMQMygBegUIARDGAQ..i&docid=MXfurPg4WO5-DM&w=1280&h=720" credit="Ray Tracing Revolution on YouTube" desc="Comparison of Minecraft with and without Ray Tracing" class="bottom-media" %}
+
+{% include multimedia-any-end.html %}
 
 How have games developers been affected by current and emerging technologies?
 Benefits and limitations of the current and emerging technologies on the development of computer games e.g.
