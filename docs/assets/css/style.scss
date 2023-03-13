@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+* { box-sizing: border-box !important; }
+
 table.sideimg {
   display: inline;
   float: right;
@@ -42,6 +44,7 @@ sup > a.footnote::after {
 
 .multimedia {
   display: grid;
+  width: 100%;
   grid-template-columns: 1fr 1fr fit-content;
   grid-template-rows: 1fr 1fr fit-content;
   gap: 0px 0px;
