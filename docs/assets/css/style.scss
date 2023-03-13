@@ -39,6 +39,7 @@ sup > a.footnote {
 .multimedia {
   display: grid;
   width: 100%;
+  position: relative;
   grid-template-columns: 2fr 1fr;
   grid-template-rows: fit-content fit-content;
   gap: 0.5em;
@@ -59,7 +60,12 @@ sup > a.footnote {
   align-items: flex-end;
 }
 
-.multimedia > .bottom-media { grid-area: bottom-media; }
+.multimedia > .bottom-media {
+  grid-area: bottom-media;
+  position: absolute;
+  bottom: 0;
+}
+
 .multimedia > .text { grid-area: main; }
 
 
