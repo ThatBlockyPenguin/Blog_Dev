@@ -46,6 +46,7 @@ sup > a.footnote {
   grid-template-areas:
     "main         media"
     "bottom-media media";
+  margin-bottom: 0.5em;
 }
 
 .multimedia * {

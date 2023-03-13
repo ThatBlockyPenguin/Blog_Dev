@@ -519,7 +519,7 @@ Input devices are essential in gaming since they allow players to interact with 
 
 3. **Joystick**:
    
-   {% include large-sideimg.html url="https://uk.hama.com/bilder/00186/dex/00186043dex.jpg" src="https://uk.hama.com/00186043/urage-airborne-300-gaming-joystick" credit="Hama" desc="A gaming joystick" %}
+   {% include sideimg.html url="https://uk.hama.com/bilder/00186/dex/00186043dex.jpg" src="https://uk.hama.com/00186043/urage-airborne-300-gaming-joystick" credit="Hama" desc="A gaming joystick" %}
    
    Joysticks are similar to gamepads, but they offer a more specialized control scheme and are typically used for flight simulators and space combat games.
 
