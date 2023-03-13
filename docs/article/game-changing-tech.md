@@ -759,7 +759,7 @@ Animation is another important aspect of game development, which gives people, o
 
 The process of creating a video game from scratch takes time and is difficult. It involves a lot of trial and error, strong programming abilities, and specific game development expertise. As many of the underlying systems shared by games of various types have already been developed by others (such as graphics rendering, physics simulation, and input processing), leveraging them may help creators save a lot of time and money. Game engines are a simple way of doing this.
 
-### New Technology in Game Development
+### New Technology and its Impact on Game Development
 
 There are various modern technologies that are emerging in the gaming scene, and they have the potential to revolutionise the way that people play video games.
 
@@ -828,11 +828,11 @@ Over the years, gaming technology has evolved greatly, we now have graphics card
 
 <div class="multimedia" markdown="1">
 <div class="text" markdown="1">
-#### Graphics
+#### Ray Tracing
 
 One of the most obvious examples of how games have evolved over the years is in graphics. Games are now able to render incredibly realistic environments and characters, thanks to advances in GPUs and other rendering technology, such as DirectX, Vulkan, and OpenGL. [^64]
 
-A great example of innovators in the graphics area is Nvidia, bringing ray tracing to the mainstream with their dedicated "RT Cores", specifically designed for ray tracing. On the right are a few images comparing the same screenshots of Valve's Portal, one without ray tracing and one with. Below is an image showing the same for Minecraft. You can click on them to view them in full-screen. The difference is incredible!
+A great example of innovators in the graphics area is Nvidia, bringing ray tracing to the mainstream with their GPUs with dedicated "RT Cores", specifically designed for ray tracing. On the right are a few images comparing the same screenshots of Valve's Portal, one without ray tracing and one with. Below is an image showing the same for Minecraft. You can click on them to view them in full-screen. The difference is incredible!
 </div>
 
 <div class="side-media" markdown="1">
@@ -847,17 +847,11 @@ A great example of innovators in the graphics area is Nvidia, bringing ray traci
 {% include img.html url="https://i.ytimg.com/vi/9qxfavtUs7w/maxresdefault.jpg" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9qxfavtUs7w%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9qxfavtUs7w&tbnid=0-xisAaRmpMsXM&vet=12ahUKEwi7_MPguNn9AhX2rycCHUpZAVMQMygBegUIARDGAQ..i&docid=MXfurPg4WO5-DM&w=1280&h=720" credit="Ray Tracing Revolution on YouTube" desc="Comparison of Minecraft with and without Ray Tracing"%}
 </div>
 </div>
+As you can see from the images above, ray tracing enhances video games by bringing an extra level of realism. Instead of using static, so-called "baked" lighting, it replicates how light reflects and refracts off of objects in real life, to create a more authentic atmosphere. [^65]
 
-#### Consoles
+Unfortunately, as you can probably imagine, it takes an awful lot of computing power to process all of this lighting data, so GPUs that can handle it well are very expensive. [^65]
 
-{% include img.html url="https://91a81446437e9a44.azureedge.net/media/Ukie/Header-images/Uk%20Consumer%20Games_infographic_Twitter%20-02.jpg" src="https://ukie.org.uk/consumer-games-market-valuation-2021" credit="Ukie" desc="Graph of money spent on game hardware in the UK, 2020 & 2021"%}
-
-Above, you can see a graph detailing how much money was spent on gaming hardware in 2020 and 2021.
-
-- Provide examples with supporting images to show the impact on the games industry e.g. development of graphics cards, ray tracing, 3D game rendering etc.  
-- Provide examples with supporting images to show the impact on the users e.g. smartphone tech, consoles as entertainment centres etc.
-- Include images of games/gameplay to show the impact of the technologies 
-- Bring the tech part of M1 in to this
+Most games these days use a combination of ray tracing and traditional lighting to achieve a decent look without being too taxing on the computer. [^65]
 
 ### The Impact of User Needs on Games Development
 
@@ -929,3 +923,4 @@ Above, you can see a graph detailing how much money was spent on gaming hardware
 [^62]: <a href="https://www.techtarget.com/whatis/definition/virtual-reality" target="_blank">What is virtual reality?</a>
 [^63]: <a href="https://www.investopedia.com/terms/a/augmented-reality.asp" target="_blank">Augmented Reality (AR) Defined, with Examples and Uses</a>
 [^64]: <a href="https://www.finsmes.com/2022/11/how-technology-is-changing-the-gaming-industry.html" target="_blank">How Technology is Changing the Gaming Industry</a>
+[^65]: <a href="https://www.digitaltrends.com/computing/what-is-ray-tracing" target="_blank">What is ray tracing, and how will it change games? | Digital Trends</a>
