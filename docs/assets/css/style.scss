@@ -54,6 +54,8 @@ sup > a.footnote::after {
     "media4 media4 media3";
 }
 
+.multimedia * { width: 100% !important; }
+
 .multimedia > .side-media-1 { grid-area: media1; }
 
 .multimedia > .side-media-2 { grid-area: media2; }
