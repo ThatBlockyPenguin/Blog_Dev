@@ -40,6 +40,28 @@ sup > a.footnote::after {
   animation: target-fade 2s forwards;
 }
 
+.multimedia {
+  display: grid;
+  grid-template-columns: 1fr 1fr min-content;
+  grid-template-rows: 1fr 1fr min-content;
+  gap: 0px 0px;
+  grid-template-areas:
+    "main main media1"
+    "main main media2"
+    "media4 media4 media3";
+}
+
+.multimedia > .side-media-1 { grid-area: media1; }
+
+.multimedia > .side-media-2 { grid-area: media2; }
+
+.multimedia > .side-media-3 { grid-area: media3; }
+
+.multimedia > .bottom-media { grid-area: media4; }
+
+.multimedia > .text { grid-area: main; }
+
+
 @keyframes target-fade {
   0% {
     border-radius: 5px;
