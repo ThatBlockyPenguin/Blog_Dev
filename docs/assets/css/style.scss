@@ -40,7 +40,7 @@ sup > a.footnote {
   display: grid;
   width: 100%;
   grid-template-columns: 2fr 1fr;
-  grid-template-rows:    2fr 1fr;
+  grid-template-rows: fit-content fit-content;
   gap: 0.5em;
   grid-template-areas:
     "main         media"
@@ -49,7 +49,7 @@ sup > a.footnote {
 
 .multimedia * {
   width: fit-content !important;
-  margin: none;
+  margin: 0;
 }
 
 .multimedia > .side-media {
