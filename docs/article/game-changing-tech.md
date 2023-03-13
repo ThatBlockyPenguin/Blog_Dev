@@ -638,7 +638,7 @@ Programming languages are instruction sets designed for humans to write and comp
   | Pros:                                       | Cons:                                                             |
   | ------------------------------------------- | ----------------------------------------------------------------- |
   | Seamless integration with Visual Studio     | Developers must manage memory manually                            |
-  | Fast and efficient                          | Moderately difficult to learn [^57] |
+  | Fast and efficient                          | Moderately difficult to learn [^57]                               |
   | Compatibility with the popular Unity Engine |                                                                   |
   | Uses the .NET framework                     |                                                                   |
   | Multi-paradigm                              |                                                                   |
@@ -848,17 +848,11 @@ A great example of innovators in the graphics area is Nvidia, bringing ray traci
 </div>
 </div>
 
-How have games developers been affected by current and emerging technologies?
-Benefits and limitations of the current and emerging technologies on the development of computer games e.g.
-Increase in mobile gaming due to improved technologies
-Need for access to lower-cost AR glasses and better batteries
-Costs of developing games using VR and the take-up for these games
-Gamer interest/lack of interest in using AR due to lack of immersive experience etc.
-Benefits and limitations of different platform options for the development of computer games:
-personal computers, e.g. Windows®, Mac®
-consoles, e.g. PlayStation®, XboxTM, Nintendo®
-mobile devices, e.g. smartphones, tablets, notebooks
-web-based, e.g. Flash®, HTML5.
+#### Consoles
+
+{% include img.html url="https://91a81446437e9a44.azureedge.net/media/Ukie/Header-images/Uk%20Consumer%20Games_infographic_Twitter%20-02.jpg" src="https://ukie.org.uk/consumer-games-market-valuation-2021" credit="Ukie" desc="Graph of money spent on game hardware in the UK, 2020 & 2021"%}
+
+Above, you can see a graph detailing how much money was spent on gaming hardware in 2020 and 2021.
 
 - Provide examples with supporting images to show the impact on the games industry e.g. development of graphics cards, ray tracing, 3D game rendering etc.  
 - Provide examples with supporting images to show the impact on the users e.g. smartphone tech, consoles as entertainment centres etc.
