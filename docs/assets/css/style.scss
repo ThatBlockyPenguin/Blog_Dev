@@ -48,10 +48,17 @@ sup > a.footnote {
 }
 
 .multimedia * {
+  width: fit-content !important;
   margin: none;
 }
 
-.multimedia > .side-media { grid-area: media; }
+.multimedia > .side-media {
+  grid-area: media;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
 .multimedia > .bottom-media { grid-area: bottom-media; }
 .multimedia > .text { grid-area: main; }
 
