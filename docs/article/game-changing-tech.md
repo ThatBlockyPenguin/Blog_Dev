@@ -835,7 +835,7 @@ One of the most obvious examples of how games have evolved over the years is in 
 A great example of innovators in the graphics area is Nvidia, bringing ray tracing to the mainstream with their dedicated "RT Cores", specifically designed for ray tracing. On the right are a few images comparing the same screenshots of Valve's Portal, one without ray tracing and one with. Below is an image showing the same for Minecraft. The difference is incredible!
 </div>
 
-<div class="side-media>
+<div class="side-media" markdown="1">
 {% include sideimg.html url="https://i.postimg.cc/tJz4CRdw/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 1 of Portal with and without Ray Tracing" %}
 
 {% include sideimg.html url="https://i.postimg.cc/SssrGjR7/image.png" src="https://www.youtube.com/watch?v=YqKiiaG1TL8" credit="Cycu1 on YouTube" desc="Comparison 2 of Portal with and without Ray Tracing" %}
