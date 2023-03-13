@@ -855,7 +855,13 @@ Most games these days use a combination of ray tracing and traditional lighting 
 
 ### The Impact of User Needs on Games Development
 
-- M1
+The players' satisfaction is a major element in the development and design of computer games. To build an entertaining game, the target audience must first be defined. Understanding the traits of your target audience can be critical in areas like level design, character customisation, and game mechanics, which must all be tweaked to satisfy the desires of the gamers. It is also necessary to investigate the various platforms and devices that will be used to play the game. For example, if you were developing a console game, you would want to make sure that it works well with controllers, and is not best played with a keyboard, for example.
+
+Player feedback should also be obtained in a process such as beta testing, in order to analyse and develop the game, as well as to keep it new and exciting. User expectations and wishes should be considered throughout game conception, development and any continuous updates or DLC releases.
+
+It's also important to keep in mind that user needs can change over time. Players may become bored with a game if it doesn't evolve to meet their changing needs and expectations. To keep players engaged, the aforementioned continuous updates and improvements to the game or releasing DLCs would add new features and content to keep the game fresh and exciting. Another alternative would be community creations, such as custom maps - however, this would likely require the addition of an in-game level editor, which may be an extremely large undertaking, depending on the game.
+
+<!-- Different users' abilities will also be -->
 
 ## References:
 
