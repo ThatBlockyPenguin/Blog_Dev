@@ -39,8 +39,8 @@ sup > a.footnote {
 .multimedia {
   display: grid;
   width: 100%;
-  grid-template-columns: 1fr auto;
-  grid-template-rows: 1fr auto;
+  grid-template-columns: 2fr min(1fr, auto);
+  grid-template-rows: 2fr min(1fr, auto);
   gap: 0.5em;
   grid-template-areas:
     "main         media"
