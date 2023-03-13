@@ -21,12 +21,12 @@ td > ul {
 }
 
 sup > a.footnote {
-  ::before {
+  &::before {
     display: inline;
     content: '[';
   }
 
-  ::after {
+  &::after {
     display: inline;
     content: ']';
   }
