@@ -807,6 +807,21 @@ Despite its benefits, like VR, AR has a number of disadvantages. One is that som
 
 #### Cloud gaming
 
+Cloud gaming is a type of service which allows players to run games on a server in the cloud and have your inputs streamed to it and the outputs streamed back to you. Some examples of this are Xbox Cloud Gaming, Nvidia GeForce and the now defunct Google Stadia, as well as the previously discussed PlayStation Plus.
+
+Some of the reasons why people may want to use Cloud Gaming are:
+
+- Cloud gaming allows users to access games from almost any device with an internet connection, making it more accessible to those who do not have access to high-end gaming equipment.
+- Cloud gaming allows for greater scalability - game servers can be easily scaled up or down to meet varying numbers of players.
+- Cloud Gaming means that players don't need to invest in expensive gaming hardware to play high-quality games, so it may be a less expensive option for some, especially since many Cloud Gaming companies feature a free tier.
+- Cloud gaming may open new opportunities for games, such as game saves that persist across devices and cross-platform multiplayer.
+
+One disadvantage is that players must have a reliable and fast connection to the Internet, which may be a sticking point for some players, particularly those in rural areas. Gamers with slow or unstable internet connections may experience high input lag or poor graphics.
+
+Some cloud gaming services may need a paid membership for clients who already pay for games and other forms of entertainment, such as GeForce Now. Although it does offer a free tier, GeForce Now connects to platforms like Steam or Epic Games, and allows players to play games they have purchased through these platforms, whilst also offering both a free and paid subscription, which may mean that an extra cost is incurred just to play games you already own.
+
+Developers may also have to design specific parts of the game to be optimised for streaming services - such as support for a wide variety of input and output systems that people may be using (as many streaming services can be accessed from any device using a web browser), or highly efficient input systems to reduce lag.
+
 ### The Impact of Emerging Technologies on Games Development
 
 - Provide examples with supporting images to show the impact on the games industry e.g. development of graphics cards, ray tracing, 3D game rendering etc.  
