@@ -476,7 +476,7 @@ Haptic feedback is a more advanced form of feedback that uses more sophisticated
 
 Input devices are essential in gaming since they allow players to interact with the game. Below are the most prevalent gaming input devices, along with their benefits and drawbacks:
 
-1. Keyboard and Mouse:
+1. **Keyboard and Mouse**:
 
    {% include sideimg.html url="https://resource.logitech.com/w_692,c_limit,q_auto,f_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/combos/mk345/gallery/mk345-gallery-1-new.png?v=1" src="https://www.logitech.com/en-gb/products/combos/mk345-keyboard-mouse-wireless.920-006488.html" credit="Logitech" desc="A keyboard and mouse combo" %}
    
@@ -497,7 +497,7 @@ Input devices are essential in gaming since they allow players to interact with 
    - Real-time strategy games.
    - Multiplayer online battle arena (MOBA) games.
 
-2. Gamepad:
+2. **Gamepad**:
    
    {% include sideimg.html url="https://assets.xboxservices.com/assets/55/83/55836945-e141-4d47-9dad-21d902948816.jpg?n=111101_Gallery-0_1_1350x759.jpg" src="https://www.xbox.com/en-GB/accessories/controllers/xbox-wireless-controller" credit="Xbox" desc="An Xbox controller" %}
    
@@ -517,7 +517,7 @@ Input devices are essential in gaming since they allow players to interact with 
    - Fighting games.
    - Racing games.
 
-3. Joystick:
+3. **Joystick**:
    
    {% include large-sideimg.html url="https://uk.hama.com/bilder/00186/dex/00186043dex.jpg" src="https://uk.hama.com/00186043/urage-airborne-300-gaming-joystick" credit="Hama" desc="A gaming joystick" %}
    
@@ -535,7 +535,7 @@ Input devices are essential in gaming since they allow players to interact with 
    - Flight simulators.
    - Space combat games.
 
-4. Virtual Reality Controllers:
+4. **Virtual Reality Controllers**:
    
    {% include sideimg.html url="https://cdn-afkgp.nitrocdn.com/GgcvDclOgOFrMPDAxuwUmHHZlgKuQsxq/assets/images/optimized/rev-95176e4/wp-content/uploads/2021/06/best-vr-controller.jpg" src="https://www.pcguide.com/vr/guide/best-controller/" credit="PCGuide" desc="Oculus Touch controllers" %}
    
