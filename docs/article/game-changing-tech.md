@@ -861,7 +861,9 @@ Player feedback should also be obtained in a process such as beta testing, in or
 
 It's also important to keep in mind that user needs can change over time. Players may become bored with a game if it doesn't evolve to meet their changing needs and expectations. To keep players engaged, the aforementioned continuous updates and improvements to the game or releasing DLCs would add new features and content to keep the game fresh and exciting. Another alternative would be community creations, such as custom maps - however, this would likely require the addition of an in-game level editor, which may be an extremely large undertaking, depending on the game.
 
-<!-- Different users' abilities will also be -->
+Different users' abilities will also need to be taken into account, such as people with disabilities. One great example of this is the Xbox Adaptive Controller. [^66]
+
+The Xbox Adaptive Controller connects to an Xbox Console or Windows PC, and has various ports into which devices can be plugged. Each of these ports controls an action, such as moving a joystick or pressing a button, and allows people with limited mobility to play games in a way that is comfortable for them. [^66]
 
 ## References:
 
@@ -930,3 +932,4 @@ It's also important to keep in mind that user needs can change over time. Player
 [^63]: <a href="https://www.investopedia.com/terms/a/augmented-reality.asp" target="_blank">Augmented Reality (AR) Defined, with Examples and Uses</a>
 [^64]: <a href="https://www.finsmes.com/2022/11/how-technology-is-changing-the-gaming-industry.html" target="_blank">How Technology is Changing the Gaming Industry</a>
 [^65]: <a href="https://www.digitaltrends.com/computing/what-is-ray-tracing" target="_blank">What is ray tracing, and how will it change games? | Digital Trends</a>
+[^66]: <a href="https://www.xbox.com/en-GB/accessories/controllers/xbox-adaptive-controller" target="_blank">Xbox Adaptive Controller | Xbox</a>
